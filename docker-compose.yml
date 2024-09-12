@@ -4,17 +4,18 @@ services:
     build: .
     user: root
     environment:
-      DICTIONARY_FILE:
+      FLASK_APP: app.py
+      DICTIONARY_FILE: ./english_entities.csv
       LANGUAGE: en
     ports:
       - 8000:8000
-    volumes:
-      - .:/app
+    #volumes:
+    #  - .:/app
     restart: unless-stopped
     privileged: true
     command: flask run --host=0.0.0.0 --port=8000
 
-networks:
-  default:
-    name: cogstack-net
-    external: true
+#networks:
+#  default:
+#    name: cogstack-net
+#    external: true

@@ -42,6 +42,12 @@ This will start the service on port 8000.
 4. Verify the Service is Running
 You can open your browser or run a curl request to http://localhost:8000 to ensure the service is up and running.
 
+5. Copy HFCCR_v2.zip to the assets folder (and make the assets folder if it doesn't exist)
+
+6. run test.py to test the service
+
+
+
 ## Available Endpoints
 
 1. /process_text - Process a Single Text

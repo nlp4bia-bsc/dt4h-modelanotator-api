@@ -1,11 +1,12 @@
 FROM python:3.10-slim
 
+COPY . /app
 WORKDIR /app
 
 COPY app/requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 
-COPY app/ .
+COPY ../english_entities.csv /app
 
 # Instalar dependencias necesarias y Docker CLI
 RUN apt-get update && \
