@@ -1,7 +1,9 @@
 import requests
 from tqdm import tqdm
+import json
 import zipfile
 import os
+from io import StringIO
 from test_input import test_output, test_text
 from collections import defaultdict
 
@@ -35,14 +37,17 @@ if __name__ == "__main__":
             
     print(f"The API has {correct_both} matches out of {len(anns)}")
      
-    print("Starting the HFCCR_v2")   
-    # Specify the path to the zip file
-    zip_file_path = 'assets/HFCCR_v2.zip'
 
-    # Extract the zip file
-    print("..decompressing HFCCR_v2")  
-    with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-        zip_ref.extractall('assets/tmp')
+    # check if the assets/tmp does not exist yet, otherwise continue
+    if os.path.exists(os.path.join(os.getcwd(), 'assets/tmp')) == False:
+        print("Starting the HFCCR_v2")   
+        # Specify the path to the zip file
+        zip_file_path = 'assets/HFCCR_v2.zip'
+
+        # Extract the zip file
+        print("..decompressing HFCCR_v2")  
+        with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+            zip_ref.extractall('assets/tmp')
 
     # Gather the extracted files
     print("..gathering the metadata") 
@@ -64,12 +69,28 @@ if __name__ == "__main__":
     # Process the extracted files
     print("..processing the texts with the API") 
     ExtractedTerms = {}
+    OutputList = []
     for Id, Text in tqdm(TextLists.items()):
         try:
-            anns = (call_api(query=Text))['nlp_output']['annotations']
-            ExtractedTerms[Id] = [ann['concept_mention_string'].lower() for ann in anns]
-        except:
-            pass
+            anns = (call_api(query=Text))
+            anns_anns = anns['nlp_output']['annotations']
+            ExtractedTerms[Id] = [ann['concept_mention_string'].lower() for ann in anns_anns]
+
+            anns['id'] = Id
+
+            OutputList.append(anns)
+        except Exception as e:
+            raise ValueError(f"Oopsydaisy something went wrong with the API: {e}, {type(anns)}")
+
+    json_filename = 'artifacts/output.json'
+    with open(json_filename, 'w') as json_file:
+        json.dump(OutputList, json_file)
+    # Then, zip the JSON file
+    zip_filename = 'artifacts/test.json.zip'
+    with zipfile.ZipFile(zip_filename, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        zipf.write(json_filename, os.path.basename(json_filename))
+    # Optionally, remove the temporary JSON file
+    os.remove(json_filename)
     
     # Checking overlap
     print("..checking the overlap")
