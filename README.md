@@ -1,6 +1,6 @@
 # Dictionary Lookup NER API
 
-This is a Flask API that performs Named Entity Recognition (NER) using a dictionary-based approach. The model relies on a CSV file containing entities and their corresponding labels.
+This is a Flask API that performs Named Entity Recognition (NER) using a dictionary-based approach. The model relies on a CSV file containing entities and their corresponding labels...
 
 ## Prerequisites
 
