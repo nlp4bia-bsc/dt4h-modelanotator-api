@@ -1,0 +1,584 @@
+Valvulopatia,signs and symptoms,DT4H-CV11,SNOMED,2024-06-01
+Tachicardia,signs and symptoms,DT4HSign-24,SNOMED,2024-06-01
+Pressione arteriosa media,signs and symptoms,DT4HMeas-3,SNOMED,2024-06-01
+Ex fumatore,signs and symptoms,DT4H-SM2,SNOMED,2024-06-01
+Lipoproteine ad alta densità,signs and symptoms,DT4H-Lab14,SNOMED,2024-06-01
+Broncopneumopatia cronica ostruttiva,signs and symptoms,DT4H-Dis3,SNOMED,2024-06-01
+Lipoproteine a bassa densità,signs and symptoms,DT4H-Lab15,SNOMED,2024-06-01
+Infarto miocardico,signs and symptoms,DT4H-CV7,SNOMED,2024-06-01
+Pressione venosa giugulare aumentata,signs and symptoms,DT4HSign-15,SNOMED,2024-06-01
+Misurazione dell'albumina,signs and symptoms,DT4H-Lab20,SNOMED,2024-06-01
+Peso corporeo,signs and symptoms,DT4HDem-8,SNOMED,2024-06-01
+Dolore al petto,signs and symptoms,DT4HSign-2,SNOMED,2024-06-01
+Ricovero in ospedale,signs and symptoms,DT4H-Out8,SNOMED,2024-06-01
+Ferritina,signs and symptoms,DT4H-Lab2,SNOMED,2024-06-01
+Ipertiroidismo,signs and symptoms,DT4H-Dis8,SNOMED,2024-06-01
+Disturbo depressivo,signs and symptoms,DT4H-Dis6,SNOMED,2024-06-01
+Emoglobina,signs and symptoms,DT4H-Lab1,SNOMED,2024-06-01
+Disturbo ipertensivo,signs and symptoms,DT4H-CV5,SNOMED,2024-06-01
+Sodio,signs and symptoms,DT4H-Lab17,SNOMED,2024-06-01
+Crepitii respiratori,signs and symptoms,DT4HSign-22,SNOMED,2024-06-01
+Fibrillazione atriale,signs and symptoms,DT4H-CV2,SNOMED,2024-06-01
+Demenza,signs and symptoms,DT4H-Dis5,SNOMED,2024-06-01
+Dispnea parossistica notturna,signs and symptoms,DT4HSign-5,SNOMED,2024-06-01
+Versamento pleurico,signs and symptoms,DT4HSign-23,SNOMED,2024-06-01
+Gamma-glutamiltransferasi,signs and symptoms,DT4H-Lab18,SNOMED,2024-06-01
+Indice di massa corporea,signs and symptoms,DT4HDem-9,SNOMED,2024-06-01
+Polso irregolare,signs and symptoms,DT4HSign-25,SNOMED,2024-06-01
+Proteina C reattiva,signs and symptoms,DT4H-Lab7,SNOMED,2024-06-01
+AIDS,signs and symptoms,DT4H-Dis1,SNOMED,2024-06-01
+Tosse notturna,signs and symptoms,DT4HSign-9,SNOMED,2024-06-01
+Ortopnea,signs and symptoms,DT4HSign-4,SNOMED,2024-06-01
+Reflusso epato-giugulare,signs and symptoms,DT4HSign-16,SNOMED,2024-06-01
+Diabete mellito,signs and symptoms,DT4H-Dis4,SNOMED,2024-06-01
+Fumatore,signs and symptoms,DT4H-SM1,SNOMED,2024-06-01
+Sindrome da apnea ostruttiva del sonno,signs and symptoms,DT4H-Dis11,SNOMED,2024-06-01
+Perdita di appetito,signs and symptoms,DT4HSign-10,SNOMED,2024-06-01
+Tasso di filtrazione glomerulare,signs and symptoms,DT4H-Lab22,SNOMED,2024-06-01
+Palpitazioni,signs and symptoms,DT4HSign-12,SNOMED,2024-06-01
+Epatomegalia,signs and symptoms,DT4HSign-28,SNOMED,2024-06-01
+Oliguria,signs and symptoms,DT4HSign-30,SNOMED,2024-06-01
+Insufficienza cardiaca,signs and symptoms,DT4H-CV4,SNOMED,2024-06-01
+Astenia,signs and symptoms,DT4HSign-7,SNOMED,2024-06-01
+Colesterolo,signs and symptoms,DT4H-Lab13,SNOMED,2024-06-01
+Triacilglicerolo,signs and symptoms,DT4H-Lab12,SNOMED,2024-06-01
+Cardiomiopatia,signs and symptoms,DT4H-CV3,SNOMED,2024-06-01
+Infezione da virus dell'immunodeficienza umana,signs and symptoms,DT4H-Dis2,SNOMED,2024-06-01
+Potassio,signs and symptoms,DT4H-Lab16,SNOMED,2024-06-01
+Soffio cardiaco,signs and symptoms,DT4HSign-20,SNOMED,2024-06-01
+Perdita di peso,signs and symptoms,DT4HSign-19,SNOMED,2024-06-01
+Troponina T,signs and symptoms,DT4H-Lab10,SNOMED,2024-06-01
+Troponina I,signs and symptoms,DT4H-Lab8,SNOMED,2024-06-01
+Misurazione dell'azoto ureico nel sangue,signs and symptoms,DT4H-Lab23,SNOMED,2024-06-01
+Saturazione della transferrina,signs and symptoms,DT4H-Lab3,SNOMED,2024-06-01
+Data di nascita,signs and symptoms,DT4HDem-6,SNOMED,2024-06-01
+Angina pectoris,signs and symptoms,DT4H-CV1,SNOMED,2024-06-01
+Accidente cerebrovascolare / Ictus,signs and symptoms,DT4H-CV9,SNOMED,2024-06-01
+Innesto di bypass aorto-coronarico,signs and symptoms,DT4H-CV12,SNOMED,2024-06-01
+Malattia del fegato,signs and symptoms,DT4H-Dis9,SNOMED,2024-06-01
+Donna,signs and symptoms,DT4HDem-3,SNOMED,2024-06-01
+Uomo,signs and symptoms,DT4HDem-4,SNOMED,2024-06-01
+Frazione di eiezione ventricolare sinistra,signs and symptoms,DT4H-US1,SNOMED,2024-06-01
+Dimensione della cavità endosistolica del ventricolo sinistro,signs and symptoms,DT4H-US7,SNOMED,2024-06-01
+Frazione di eiezione del ventricolo destro,signs and symptoms,DT4H-US13,SNOMED,2024-06-01
+Tipo di ritmo cardiaco,signs and symptoms,DT4HEKG-1,SNOMED,2024-06-01
+Asse QRS,signs and symptoms,DT4HEKG-5,SNOMED,2024-06-01
+Durata del complesso QRS,signs and symptoms,DT4HEKG-4,SNOMED,2024-06-01
+Aumento di peso,signs and symptoms,DT4HSign-18,SNOMED,2024-06-01
+Dialisi renale,signs and symptoms,DT4H-Dis7,SNOMED,2024-06-01
+Ischemia cerebrale transitoria,signs and symptoms,DT4H-CV10,SNOMED,2024-06-01
+Mai fumato tabacco,signs and symptoms,DT4H-SM6,SNOMED,2024-06-01
+Consumo di tabacco sconosciuto,signs and symptoms,DT4H-SM8,SNOMED,2024-06-01
+Dispnea,signs and symptoms,DT4HSign-3,SNOMED,2024-06-01
+Caviglia gonfia,signs and symptoms,DT4HSign-8,SNOMED,2024-06-01
+Tolleranza all'esercizio compromessa,signs and symptoms,DT4HSign-6,SNOMED,2024-06-01
+Albuminuria,signs and symptoms,DT4H-Lab21,SNOMED,2024-06-01
+Misurazione del rapporto albumina/creatinina nelle urine,signs and symptoms,DT4H-Lab24,SNOMED,2024-06-01
+"Misurazione della creatina, urina",signs and symptoms,DT4H-Lab19,SNOMED,2024-06-01
+Sincope,signs and symptoms,DT4HSign-14,SNOMED,2024-06-01
+Edema periferico,signs and symptoms,DT4HSign-21,SNOMED,2024-06-01
+Tachipnea,signs and symptoms,DT4HSign-26,SNOMED,2024-06-01
+Terzo tono cardiaco,signs and symptoms,DT4HSign-17,SNOMED,2024-06-01
+Individuazione del ritmo cardiaco,signs and symptoms,DT4H-US32,SNOMED,2024-06-01
+Superficie corporea,signs and symptoms,DT4H-US2,SNOMED,2024-06-01
+Impianto cardiovascolare,signs and symptoms,DT4H-Proc2,SNOMED,2024-06-01
+Impianto vascolare,signs and symptoms,DT4H-Proc3,SNOMED,2024-06-01
+Luogo di origine,signs and symptoms,DT4HDem-11,SNOMED,2024-06-01
+Respirazione Cheyne-Stokes,signs and symptoms,DT4HSign-27,SNOMED,2024-06-01
+Malattia neoplastica maligna,signs and symptoms,DT4H-Dis10,SNOMED,2024-06-01
+Frequenza cardiaca,signs and symptoms,DT4HEKG-7,SNOMED,2024-06-01
+Umore depresso,signs and symptoms,DT4HSign-11,SNOMED,2024-06-01
+Antagonista del recettore dell'aldosterone,signs and symptoms,DT4H-MedM1,SNOMED,2024-06-01
+Diuretico dell'ansa,signs and symptoms,DT4H-MedL1,SNOMED,2024-06-01
+Diuretico,signs and symptoms,DT4H-MedD1,SNOMED,2024-06-01
+Inibitore dell'enzima di conversione dell'angiotensina,signs and symptoms,DT4H-MedA1,SNOMED,2024-06-01
+Vasodilatatore,signs and symptoms,DT4H-MedV1,SNOMED,2024-06-01
+Anticoagulante,signs and symptoms,DT4H-MedCO1,SNOMED,2024-06-01
+Inibitore della HMG-CoA reduttasi,signs and symptoms,DT4H-MedS1,SNOMED,2024-06-01
+Antagonista del recettore dell'angiotensina II,signs and symptoms,DT4H-MedAR1,SNOMED,2024-06-01
+Betabloccante,signs and symptoms,DT4H-MedBB1,SNOMED,2024-06-01
+Calcio-antagonista,signs and symptoms,DT4H-MedC1,SNOMED,2024-06-01
+Ascite,signs and symptoms,DT4HSign-29,SNOMED,2024-06-01
+Reumatismo,signs and symptoms,DT4H-Dis12,SNOMED,2024-06-01
+Variazione frazionale dell'area ventricolare sinistra,signs and symptoms,DT4H-US41,SNOMED,2024-06-01
+Pressione sanguigna sistolica all'ammissione,signs and symptoms,DT4HMeas-1,SNOMED,2024-06-01
+Data di ammissione,signs and symptoms,DT4HDem-14,SNOMED,2024-06-01
+Infarto miocardico acuto con sopraslivellamento del tratto ST,signs and symptoms,DT4HEKG-2,SNOMED,2024-06-01
+Infarto miocardico acuto senza sopraslivellamento del tratto ST,signs and symptoms,DT4HEKG-3,SNOMED,2024-06-01
+Vertigini,signs and symptoms,DT4HSign-13,SNOMED,2024-06-01
+Glicoside digitalico,signs and symptoms,DT4H-MedDG1,SNOMED,2024-06-01
+Peptide natriuretico di tipo B,signs and symptoms,DT4H-Lab5,SNOMED,2024-06-01
+Cardiopatia ischemica,signs and symptoms,DT4H-CV6,SNOMED,2024-06-01
+Frammento  N-terminale del pro-peptide natriuretico di tipo B,signs and symptoms,DT4H-Lab4,SNOMED,2024-06-01
+Intervento coronarico percutaneo,signs and symptoms,DT4H-Proc1,SNOMED,2024-06-01
+La morte,signs and symptoms,DT4H-Out9,SNOMED,2024-06-01
+Trapianto di cuore,signs and symptoms,DT4H-Proc4,SNOMED,2024-06-01
+Classificazione della New York Heart Association,signs and symptoms,DT4HSign-1,SNOMED,2024-06-01
+Ivabradina,signs and symptoms,DT4H-MedIV1,SNOMED,2024-06-01
+Saturazione dell'ossigeno venoso,signs and symptoms,DT4HMeas-4,SNOMED,2024-06-01
+Saturazione dell'ossigeno arterioso,signs and symptoms,DT4HMeas-5,SNOMED,2024-06-01
+Pressione arteriosa diastolica all'ammissione,signs and symptoms,DT4HMeas-2,SNOMED,2024-06-01
+Fuma tabacco quotidianamente,signs and symptoms,DT4H-SM3,SNOMED,2024-06-01
+Inibitore del cotrasportatore di sodio e glucosio sottotipo 2,signs and symptoms,DT4H-MedSG1,SNOMED,2024-06-01
+Malattia renale cronica,signs and symptoms,DT4H-Dis13,SNOMED,2024-06-01
+Misurazione della proteina C-reattiva con tecnica ad alta sensibilità,signs and symptoms,DT4H-Lab6,SNOMED,2024-06-01
+un'onda,signs and symptoms,DT4H-US33,SNOMED,2024-06-01
+Emoglobina glicata-A1c,signs and symptoms,DT4H-Lab25,SNOMED,2024-06-01
+Inibitore dell'aggregazione piastrinica,signs and symptoms,DT4H-MedP1,SNOMED,2024-06-01
+Prodotto a base di solo sacubitril e valsartan,signs and symptoms,DT4H-Med2,SNOMED,2024-06-01
+Bloccante del canale del sodio,signs and symptoms,DT4H-MedRHY1,SNOMED,2024-06-01
+arteriopatia periferica,signs and symptoms,DT4H-CV8,SNOMED,2024-06-01
+Inibitore del sistema renina-angiotensina,signs and symptoms,DT4H-MedR1,SNOMED,2024-06-01
+Altezza del corpo,signs and symptoms,DT4HDem-7,SNOMED,2024-06-01
+Fumatore occasionale di tabacco,signs and symptoms,DT4H-SM4,SNOMED,2024-06-01
+Flumetiazide,medication,DT4H-MedD119,SNOMED,2024-06-01
+Clorotiazide sodica,medication,DT4H-MedD195,SNOMED,2024-06-01
+Triclormetiazide,medication,DT4H-MedD194,SNOMED,2024-06-01
+Diltiazem cloridrato,medication,DT4H-MedC123,SNOMED,2024-06-01
+Inositolo esanitrato,medication,DT4H-MedV119,SNOMED,2024-06-01
+Verapamil cloridrato,medication,DT4H-MedC145,SNOMED,2024-06-01
+Mercaptomerina sodica,medication,DT4H-MedD138,SNOMED,2024-06-01
+Mercumatilina,medication,DT4H-MedD137,SNOMED,2024-06-01
+Ciclotiazide,medication,DT4H-MedD193,SNOMED,2024-06-01
+Amisometradina,medication,DT4H-MedD113,SNOMED,2024-06-01
+Nitrato di amile,medication,DT4H-MedV118,SNOMED,2024-06-01
+Quinethazone,medication,DT4H-MedD192,SNOMED,2024-06-01
+Diuretico sulfonamidico,medication,DT4H-MedD2,SNOMED,2024-06-01
+Enalaprilat,medication,DT4H-MedR165,SNOMED,2024-06-01
+Meretossilina procaina,medication,DT4H-MedD136,SNOMED,2024-06-01
+Metazolamide,medication,DT4H-MedD211,SNOMED,2024-06-01
+Eritritile tetranitrato,medication,DT4H-MedV117,SNOMED,2024-06-01
+Etossizolamide,medication,DT4H-MedD210,SNOMED,2024-06-01
+Acido tienilico,medication,DT4H-MedD191,SNOMED,2024-06-01
+Benzitiazide,medication,DT4H-MedD190,SNOMED,2024-06-01
+Clormerodrina,medication,DT4H-MedD135,SNOMED,2024-06-01
+Etacrilato di sodio,medication,DT4H-MedD189,SNOMED,2024-06-01
+Teobromina,medication,DT4H-MedD172,SNOMED,2024-06-01
+Aminometradina,medication,DT4H-MedD112,SNOMED,2024-06-01
+Meralluride,medication,DT4H-MedD134,SNOMED,2024-06-01
+Clorazanil,medication,DT4H-MedD114,SNOMED,2024-06-01
+Canrenone,medication,DT4H-MedM115,SNOMED,2024-06-01
+Norverapamil,medication,DT4H-MedC144,SNOMED,2024-06-01
+Torasemide,medication,DT4H-MedD187,SNOMED,2024-06-01
+Nicardipina cloridrato,medication,DT4H-MedC185,SNOMED,2024-06-01
+Bepridil cloridrato,medication,DT4H-MedC132,SNOMED,2024-06-01
+Moexipril cloridrato,medication,DT4H-MedR164,SNOMED,2024-06-01
+Fosinopril sodico,medication,DT4H-MedR163,SNOMED,2024-06-01
+Benazepril cloridrato,medication,DT4H-MedR162,SNOMED,2024-06-01
+Losartan potassio,medication,DT4H-MedR127,SNOMED,2024-06-01
+Pamabrom,medication,DT4H-MedD120,SNOMED,2024-06-01
+Perindopril erbumina,medication,DT4H-MedR161,SNOMED,2024-06-01
+Eprosartan mesilato,medication,DT4H-MedR126,SNOMED,2024-06-01
+Mercaptomerina,medication,DT4H-MedD133,SNOMED,2024-06-01
+Nicardipina,medication,DT4H-MedC184,SNOMED,2024-06-01
+Bepridil,medication,DT4H-MedC131,SNOMED,2024-06-01
+Fosinopril,medication,DT4H-MedR160,SNOMED,2024-06-01
+Benazepril,medication,DT4H-MedR159,SNOMED,2024-06-01
+Candesartan,medication,DT4H-MedR125,SNOMED,2024-06-01
+Antagonista del recettore dell'aldosterone,medication,DT4H-MedM1,SNOMED,2024-06-01
+Enalapril,medication,DT4H-MedR158,SNOMED,2024-06-01
+Agente saluretico,medication,DT4H-MedD18,SNOMED,2024-06-01
+Diuretico ad ansa,medication,DT4H-MedL1,SNOMED,2024-06-01
+Diuretico,medication,DT4H-MedD1,SNOMED,2024-06-01
+Agente vasodilatatore a base di nitrati,medication,DT4H-MedV11,SNOMED,2024-06-01
+Acetazolamide,medication,DT4H-MedD111,SNOMED,2024-06-01
+Inibitore dell'enzima di conversione dell'angiotensina,medication,DT4H-MedR13,SNOMED,2024-06-01
+Diuretico tiazidico,medication,DT4H-MedD22,SNOMED,2024-06-01
+Diuretico risparmiatore di potassio,medication,DT4H-MedD15,SNOMED,2024-06-01
+Verapamil,medication,DT4H-MedC143,SNOMED,2024-06-01
+Agente uricosurico,medication,DT4H-MedD24,SNOMED,2024-06-01
+Clorotiazide,medication,DT4H-MedD186,SNOMED,2024-06-01
+Diuretico osmotico,medication,DT4H-MedD14,SNOMED,2024-06-01
+Diltiazem,medication,DT4H-MedC122,SNOMED,2024-06-01
+Antagonista del recettore dell'angiotensina II,medication,DT4H-MedR11,SNOMED,2024-06-01
+Perindopril,medication,DT4H-MedR157,SNOMED,2024-06-01
+Bloccante del canale del calcio,medication,DT4H-MedC1,SNOMED,2024-06-01
+Moexipril,medication,DT4H-MedR156,SNOMED,2024-06-01
+Acido etacrinico,medication,DT4H-MedD185,SNOMED,2024-06-01
+Losartan,medication,DT4H-MedR124,SNOMED,2024-06-01
+Diuretico mercuriale,medication,DT4H-MedD13,SNOMED,2024-06-01
+Amlodipina besilato,medication,DT4H-MedC183,SNOMED,2024-06-01
+Pentaeritritolo tetranitrato,medication,DT4H-MedV116,SNOMED,2024-06-01
+Gabapentin,medication,DT4H-MedC111,SNOMED,2024-06-01
+Isosorbide,medication,DT4H-MedD143,SNOMED,2024-06-01
+Isosorbide mononitrato,medication,DT4H-MedV115,SNOMED,2024-06-01
+Nisoldipina,medication,DT4H-MedC182,SNOMED,2024-06-01
+Isradipina,medication,DT4H-MedC181,SNOMED,2024-06-01
+Felodipina,medication,DT4H-MedC180,SNOMED,2024-06-01
+Amlodipina,medication,DT4H-MedC179,SNOMED,2024-06-01
+Trandolapril,medication,DT4H-MedR155,SNOMED,2024-06-01
+Ramipril,medication,DT4H-MedR154,SNOMED,2024-06-01
+Lisinopril,medication,DT4H-MedR153,SNOMED,2024-06-01
+Quinapril,medication,DT4H-MedR152,SNOMED,2024-06-01
+Quinapril cloridrato,medication,DT4H-MedR151,SNOMED,2024-06-01
+Valsartan,medication,DT4H-MedR123,SNOMED,2024-06-01
+Irbesartan,medication,DT4H-MedR122,SNOMED,2024-06-01
+Candesartan cilexetil,medication,DT4H-MedR121,SNOMED,2024-06-01
+Nitrito di amile,medication,DT4H-MedV114,SNOMED,2024-06-01
+Triamterene,medication,DT4H-MedD159,SNOMED,2024-06-01
+Telmisartan,medication,DT4H-MedR120,SNOMED,2024-06-01
+Spironolattone,medication,DT4H-MedM114,SNOMED,2024-06-01
+Urea,medication,DT4H-MedD142,SNOMED,2024-06-01
+Sulfinpirazone,medication,DT4H-MedD245,SNOMED,2024-06-01
+Metolazone,medication,DT4H-MedD209,SNOMED,2024-06-01
+Mersalyl,medication,DT4H-MedD132,SNOMED,2024-06-01
+Captopril,medication,DT4H-MedR150,SNOMED,2024-06-01
+Enalapril maleato,medication,DT4H-MedR149,SNOMED,2024-06-01
+Mannitolo,medication,DT4H-MedD141,SNOMED,2024-06-01
+Prenilamina,medication,DT4H-MedC110,SNOMED,2024-06-01
+Clortalidone,medication,DT4H-MedD184,SNOMED,2024-06-01
+Isosorbide dinitrato,medication,DT4H-MedV113,SNOMED,2024-06-01
+Probenecid,medication,DT4H-MedD244,SNOMED,2024-06-01
+Metilotiazide,medication,DT4H-MedD229,SNOMED,2024-06-01
+Nitroglicerina,medication,DT4H-MedV112,SNOMED,2024-06-01
+Indapamide,medication,DT4H-MedD207,SNOMED,2024-06-01
+Furosemide,medication,DT4H-MedD183,SNOMED,2024-06-01
+Colina teofillina,medication,DT4H-MedD171,SNOMED,2024-06-01
+Nifedipina,medication,DT4H-MedC178,SNOMED,2024-06-01
+Politiazide,medication,DT4H-MedD228,SNOMED,2024-06-01
+Bumetanide,medication,DT4H-MedD182,SNOMED,2024-06-01
+Nimodipina,medication,DT4H-MedC177,SNOMED,2024-06-01
+Amiloride,medication,DT4H-MedD157,SNOMED,2024-06-01
+Amiloride cloridrato,medication,DT4H-MedD156,SNOMED,2024-06-01
+Bendroflumetiazide,medication,DT4H-MedD227,SNOMED,2024-06-01
+Idroclorotiazide,medication,DT4H-MedD226,SNOMED,2024-06-01
+Apazone,medication,DT4H-MedD243,SNOMED,2024-06-01
+Imidapril cloridrato,medication,DT4H-MedR148,SNOMED,2024-06-01
+Lacidipina,medication,DT4H-MedC176,SNOMED,2024-06-01
+Lercanidipina cloridrato,medication,DT4H-MedC175,SNOMED,2024-06-01
+Mersalile sodico,medication,DT4H-MedD131,SNOMED,2024-06-01
+Xipamide,medication,DT4H-MedD204,SNOMED,2024-06-01
+Clopamide,medication,DT4H-MedD203,SNOMED,2024-06-01
+Idroflumetiazide,medication,DT4H-MedD225,SNOMED,2024-06-01
+Cilazapril,medication,DT4H-MedR147,SNOMED,2024-06-01
+Imidapril,medication,DT4H-MedR146,SNOMED,2024-06-01
+Lercanidipina,medication,DT4H-MedC174,SNOMED,2024-06-01
+Ciclopentiazide,medication,DT4H-MedD224,SNOMED,2024-06-01
+Eprosartan,medication,DT4H-MedR119,SNOMED,2024-06-01
+Fenilalchilammina,medication,DT4H-MedC14,SNOMED,2024-06-01
+Benzotazepina,medication,DT4H-MedC12,SNOMED,2024-06-01
+Diarilaminopropilammina,medication,DT4H-MedC13,SNOMED,2024-06-01
+Bloccante dei canali del calcio derivato diidropiridinico,medication,DT4H-MedC16,SNOMED,2024-06-01
+Mefruside,medication,DT4H-MedD202,SNOMED,2024-06-01
+Eplerenone,medication,DT4H-MedM113,SNOMED,2024-06-01
+Diltiazem maleato,medication,DT4H-MedC121,SNOMED,2024-06-01
+Amiloride cloridrato diidrato,medication,DT4H-MedD154,SNOMED,2024-06-01
+Olmesartan,medication,DT4H-MedR118,SNOMED,2024-06-01
+Olmesartan medoxomil,medication,DT4H-MedR117,SNOMED,2024-06-01
+Terodilina,medication,DT4H-MedC109,SNOMED,2024-06-01
+Bloccante dei canali del calcio derivato dalla piperazina,medication,DT4H-MedC15,SNOMED,2024-06-01
+Lidoflazina,medication,DT4H-MedC151,SNOMED,2024-06-01
+Derivato purinico diuretico,medication,DT4H-MedD17,SNOMED,2024-06-01
+Piretanide,medication,DT4H-MedL101,SNOMED,2024-06-01
+Canrenoato di potassio,medication,DT4H-MedM112,SNOMED,2024-06-01
+Amlodipina maleato,medication,DT4H-MedC173,SNOMED,2024-06-01
+Mibefradil,medication,DT4H-MedC108,SNOMED,2024-06-01
+Peresilina,medication,DT4H-MedC107,SNOMED,2024-06-01
+Conivaptan,medication,DT4H-MedD117,SNOMED,2024-06-01
+Aliskiren fumarato,medication,DT4-MedR172,SNOMED,2024-06-01
+Inibitore della renina,medication,DT4-MedR17,SNOMED,2024-06-01
+Aliskiren,medication,DT4-MedR171,SNOMED,2024-06-01
+Clevidipina,medication,DT4H-MedC172,SNOMED,2024-06-01
+Perindopril arginina,medication,DT4H-MedR145,SNOMED,2024-06-01
+Tolvaptan,medication,DT4H-MedD121,SNOMED,2024-06-01
+Nitrendipina,medication,DT4H-MedC171,SNOMED,2024-06-01
+Azilsartan,medication,DT4H-MedR116,SNOMED,2024-06-01
+Azilsartan medoxomil,medication,DT4H-MedR115,SNOMED,2024-06-01
+Bromuro di pinaverio,medication,DT4H-MedC106,SNOMED,2024-06-01
+Benzbromarone,medication,DT4H-MedD242,SNOMED,2024-06-01
+Barnidipina,medication,DT4H-MedC170,SNOMED,2024-06-01
+Delapril,medication,DT4H-MedR144,SNOMED,2024-06-01
+Delapril cloridrato,medication,DT4H-MedR143,SNOMED,2024-06-01
+Gabapentin enacarbil,medication,DT4H-MedC105,SNOMED,2024-06-01
+Zofenopril,medication,DT4H-MedR142,SNOMED,2024-06-01
+Zofenopril calcio,medication,DT4H-MedR141,SNOMED,2024-06-01
+Zofenoprilat,medication,DT4H-MedR140,SNOMED,2024-06-01
+Zofenoprilat,medication,DT4H-MedR140,SNOMED,2024-06-01
+Zofenoprilat arginina,medication,DT4H-MedR139,SNOMED,2024-06-01
+Gallopamil,medication,DT4H-MedC142,SNOMED,2024-06-01
+Gallopamil cloridrato,medication,DT4H-MedC141,SNOMED,2024-06-01
+Nilvadipina,medication,DT4H-MedC169,SNOMED,2024-06-01
+Spirapril,medication,DT4H-MedR138,SNOMED,2024-06-01
+Lesinurad,medication,DT4H-MedD241,SNOMED,2024-06-01
+Althiazide,medication,DT4H-MedD222,SNOMED,2024-06-01
+"1,2-dinitroglicerina",medication,DT4H-MedV111,SNOMED,2024-06-01
+Indapamide emiidrato,medication,DT4H-MedD201,SNOMED,2024-06-01
+Cilazapril monoidrato,medication,DT4H-MedR137,SNOMED,2024-06-01
+Irbesartan cloridrato,medication,DT4H-MedR114,SNOMED,2024-06-01
+Cicletanina,medication,DT4H-MedD115,SNOMED,2024-06-01
+Cicletanina cloridrato,medication,DT4H-MedD116,SNOMED,2024-06-01
+Perindopril tosilato,medication,DT4H-MedR136,SNOMED,2024-06-01
+Manidipina,medication,DT4H-MedC168,SNOMED,2024-06-01
+Manidipina cloridrato,medication,DT4H-MedC167,SNOMED,2024-06-01
+Prodotto a base di solo sacubitril e valsartan,medication,DT4H-Med2,SNOMED,2024-06-01
+Terodilina cloridrato,medication,DT4H-MedC104,SNOMED,2024-06-01
+Amlodipina benzoato,medication,DT4H-MedC166,SNOMED,2024-06-01
+Inibitore del sistema renina-angiotensina,medication,DT4H-MedR1,SNOMED,2024-06-01
+Azilsartan medoxomil potassio,medication,DT4H-MedR113,SNOMED,2024-06-01
+Enalapril sodico,medication,DT4H-MedR135,SNOMED,2024-06-01
+Perindopril erbumina monoidrato,medication,DT4H-MedR134,SNOMED,2024-06-01
+Finerenone,medication,DT4H-MedM111,SNOMED,2024-06-01
+Cilnidipina,medication,DT4H-MedC165,SNOMED,2024-06-01
+Amlodipina mesilato,medication,DT4H-MedC164,SNOMED,2024-06-01
+Levamlodipina,medication,DT4H-MedC163,SNOMED,2024-06-01
+Levamlodipina besilato,medication,DT4H-MedC162,SNOMED,2024-06-01
+Amiloride cloridrato anidro,medication,DT4H-MedD151,SNOMED,2024-06-01
+Cilazapril anidro,medication,DT4H-MedR133,SNOMED,2024-06-01
+Lisinopril anidro,medication,DT4H-MedR132,SNOMED,2024-06-01
+Benidipina cloridrato,medication,DT4H-MedC103,SNOMED,2024-06-01
+Benidipina,medication,DT4H-MedC102,SNOMED,2024-06-01
+Lercanidipina cloridrato emiidrato,medication,DT4H-MedC161,SNOMED,2024-06-01
+Maleato di peresilina,medication,DT4H-MedC101,SNOMED,2024-06-01
+Fimasartan,medication,DT4H-MedR112,SNOMED,2024-06-01
+Fimasartan potassio triidrato,medication,DT4H-MedR111,SNOMED,2024-06-01
+Lisinopril diidrato,medication,DT4H-MedR131,SNOMED,2024-06-01
+Butizide,medication,DT4H-MedD181,SNOMED,2024-06-01
+Tocainide cloridrato,medication,DT4H-MedRHY138,SNOMED,2024-06-01
+Acebutololo cloridrato,medication,DT4H-MedBB170,SNOMED,2024-06-01
+Glucurolattone,medication,DT4H-MedCO173,SNOMED,2024-06-01
+Difenadione,medication,DT4H-MedCO236,SNOMED,2024-06-01
+Proteina C,medication,DT4H-MedCO235,SNOMED,2024-06-01
+Eparina calcio,medication,DT4H-MedCO172,SNOMED,2024-06-01
+4-idrossicumarina,medication,DT4H-MedCO233,SNOMED,2024-06-01
+Aglicone,medication,DT4H-MedDG117,SNOMED,2024-06-01
+Esmololo cloridrato,medication,DT4H-MedBB169,SNOMED,2024-06-01
+Ouabain,medication,DT4H-MedDG116,SNOMED,2024-06-01
+Antagonista dei recettori beta-2 adrenergici,medication,DT4H-MedBB138,SNOMED,2024-06-01
+Anisindione,medication,DT4H-MedCO232,SNOMED,2024-06-01
+Potassio warfarin,medication,DT4H-MedCO231,SNOMED,2024-06-01
+Ancrod,medication,DT4H-MedCO171,SNOMED,2024-06-01
+Eparina sodica,medication,DT4H-MedCO170,SNOMED,2024-06-01
+Fenprocoumon,medication,DT4H-MedCO229,SNOMED,2024-06-01
+Lidocaina cloridrato,medication,DT4H-MedRHY136,SNOMED,2024-06-01
+Warfarin sodico,medication,DT4H-MedCO228,SNOMED,2024-06-01
+Propranololo cloridrato,medication,DT4H-MedBB136,SNOMED,2024-06-01
+Timololo maleato,medication,DT4H-MedBB135,SNOMED,2024-06-01
+Dicumarolo,medication,DT4H-MedCO227,SNOMED,2024-06-01
+Dalfampridina,medication,DT4H-MedRHY153,SNOMED,2024-06-01
+Encainide cloridrato,medication,DT4H-MedRHY135,SNOMED,2024-06-01
+Bromindione,medication,DT4H-MedCO226,SNOMED,2024-06-01
+Ciclocumarolo,medication,DT4H-MedCO225,SNOMED,2024-06-01
+Bromadiolone,medication,DT4H-MedCO224,SNOMED,2024-06-01
+Alprenololo,medication,DT4H-MedBB134,SNOMED,2024-06-01
+resveratrolo,medication,DT4H-MedP163,SNOMED,2024-06-01
+Acarbossi-proteina C,medication,DT4H-MedCO223,SNOMED,2024-06-01
+Moracizina cloridrato,medication,DT4H-MedRHY134,SNOMED,2024-06-01
+Mexiletina cloridrato,medication,DT4H-MedRHY133,SNOMED,2024-06-01
+Cerivastatina sodica,medication,DT4H-MedS125,SNOMED,2024-06-01
+Atorvastatina calcio,medication,DT4H-MedS124,SNOMED,2024-06-01
+Enoxaparina sodica,medication,DT4H-MedCO169,SNOMED,2024-06-01
+Dalteparina sodica,medication,DT4H-MedCO168,SNOMED,2024-06-01
+Ardeparina sodica,medication,DT4H-MedCO167,SNOMED,2024-06-01
+Pentosan polisolfato di sodio,medication,DT4H-MedCO166,SNOMED,2024-06-01
+calcio carbaspirina,medication,DT4H-MedP160,SNOMED,2024-06-01
+cilostazolo,medication,DT4H-MedP159,SNOMED,2024-06-01
+Dofetilide,medication,DT4H-MedRHY152,SNOMED,2024-06-01
+Brodifacoum,medication,DT4H-MedCO222,SNOMED,2024-06-01
+Sotalolo cloridrato,medication,DT4H-MedBB133,SNOMED,2024-06-01
+Metipranololo cloridrato,medication,DT4H-MedBB132,SNOMED,2024-06-01
+Tocainide,medication,DT4H-MedRHY132,SNOMED,2024-06-01
+epoprostenolo,medication,DT4H-MedP158,SNOMED,2024-06-01
+Enoxaparina,medication,DT4H-MedCO163,SNOMED,2024-06-01
+Dalteparina,medication,DT4H-MedCO162,SNOMED,2024-06-01
+Danaparoid,medication,DT4H-MedCO161,SNOMED,2024-06-01
+Indanedione,medication,DT4H-MedCO221,SNOMED,2024-06-01
+Eparinoide,medication,DT4H-MedCO159,SNOMED,2024-06-01
+Antagonista del recettore beta-1 adrenergico,medication,DT4H-MedBB130,SNOMED,2024-06-01
+Encainide,medication,DT4H-MedRHY131,SNOMED,2024-06-01
+Labetalolo,medication,DT4H-MedBB129,SNOMED,2024-06-01
+Warfarin,medication,DT4H-MedCO220,SNOMED,2024-06-01
+Propranololo,medication,DT4H-MedBB128,SNOMED,2024-06-01
+ANTIARITMI,medication,DT4H-MedRHY1,SNOMED,2024-06-01
+Acebutololo,medication,DT4H-MedBB167,SNOMED,2024-06-01
+ANTICOAGULANTI,medication,DT4H-MedCO1,SNOMED,2024-06-01
+Eparina,medication,DT4H-MedCO158,SNOMED,2024-06-01
+Timololo,medication,DT4H-MedBB127,SNOMED,2024-06-01
+Anticoagulante cumarinico,medication,DT4H-MedCO219,SNOMED,2024-06-01
+Digitossina,medication,DT4H-MedDG115,SNOMED,2024-06-01
+Pravastatina,medication,DT4H-MedS121,SNOMED,2024-06-01
+Moracizine,medication,DT4H-MedRHY128,SNOMED,2024-06-01
+Ardeparina,medication,DT4H-MedCO156,SNOMED,2024-06-01
+Inibitore del fattore Xa della coagulazione,medication,DT4H-MedCO154,SNOMED,2024-06-01
+treprostinil sodico,medication,DT4H-MedP156,SNOMED,2024-06-01
+Carteololo cloridrato,medication,DT4H-MedBB122,SNOMED,2024-06-01
+Bisoprololo,medication,DT4H-MedBB164,SNOMED,2024-06-01
+Bisoprololo fumarato,medication,DT4H-MedBB163,SNOMED,2024-06-01
+Carvedilolo,medication,DT4H-MedBB121,SNOMED,2024-06-01
+Clopidogrel,medication,DT4H-MedP132,SNOMED,2024-06-01
+Tirofiban,medication,DT4H-MedP115,SNOMED,2024-06-01
+Danaparoide sodico,medication,DT4H-MedCO153,SNOMED,2024-06-01
+Lepirudina,medication,DT4H-MedCO152,SNOMED,2024-06-01
+Eptifibatide,medication,DT4H-MedP114,SNOMED,2024-06-01
+Oxcarbazepina,medication,DT4H-MedRHY126,SNOMED,2024-06-01
+Pindololo,medication,DT4H-MedBB120,SNOMED,2024-06-01
+Betaxololo cloridrato,medication,DT4H-MedBB162,SNOMED,2024-06-01
+Fenitoina,medication,DT4H-MedRHY124,SNOMED,2024-06-01
+Fenindione,medication,DT4H-MedCO218,SNOMED,2024-06-01
+Lanatoside C,medication,DT4H-MedDG114,SNOMED,2024-06-01
+Levobunololo cloridrato,medication,DT4H-MedBB119,SNOMED,2024-06-01
+Lamotrigina,medication,DT4H-MedRHY119,SNOMED,2024-06-01
+Oxprenololo,medication,DT4H-MedBB116,SNOMED,2024-06-01
+Simvastatina,medication,DT4H-MedS120,SNOMED,2024-06-01
+Nebivololo,medication,DT4H-MedBB160,SNOMED,2024-06-01
+nicorandil,medication,DT4H-MedV146,SNOMED,2024-06-01
+Oxprenololo cloridrato,medication,DT4H-MedBB115,SNOMED,2024-06-01
+Celiprololo cloridrato,medication,DT4H-MedBB159,SNOMED,2024-06-01
+Ticlopidina cloridrato,medication,DT4H-MedP131,SNOMED,2024-06-01
+Celiprololo,medication,DT4H-MedBB158,SNOMED,2024-06-01
+Certoparina,medication,DT4H-MedCO148,SNOMED,2024-06-01
+Reviparina,medication,DT4H-MedCO147,SNOMED,2024-06-01
+Rosuvastatina calcio,medication,DT4H-MedS118,SNOMED,2024-06-01
+GLICOSIDI DELLA DIGITALE,medication,DT4H-MedDG1,SNOMED,2024-06-01
+Desirudina,medication,DT4H-MedCO146,SNOMED,2024-06-01
+Betaxololo,medication,DT4H-MedBB157,SNOMED,2024-06-01
+Levobetaxololo,medication,DT4H-MedBB156,SNOMED,2024-06-01
+Difetialone,medication,DT4H-MedCO216,SNOMED,2024-06-01
+Bemiparina,medication,DT4H-MedCO145,SNOMED,2024-06-01
+Eparina suina,medication,DT4H-MedCO143,SNOMED,2024-06-01
+Eparina sodica bovina,medication,DT4H-MedCO142,SNOMED,2024-06-01
+tirofiban cloridrato monoidrato,medication,DT4H-MedP113,SNOMED,2024-06-01
+flosequinan,medication,DT4H-MedV131,SNOMED,2024-06-01
+Fluvastatina sodica,medication,DT4H-MedS117,SNOMED,2024-06-01
+Metoprololo succinato,medication,DT4H-MedBB155,SNOMED,2024-06-01
+Tinzaparina,medication,DT4H-MedCO141,SNOMED,2024-06-01
+Inibitore diretto della trombina,medication,DT4H-MedCO140,SNOMED,2024-06-01
+Medigossina,medication,DT4H-MedDG111,SNOMED,2024-06-01
+Levobunololo,medication,DT4H-MedBB114,SNOMED,2024-06-01
+Derivato cumarinico a lunga durata d'azione,medication,DT4H-MedCO215,SNOMED,2024-06-01
+Ranolazina,medication,DT4H-MedRHY117,SNOMED,2024-06-01
+Difenacoum,medication,DT4H-MedCO214,SNOMED,2024-06-01
+aloxiprina,medication,DT4H-MedP151,SNOMED,2024-06-01
+Amifampridina,medication,DT4H-MedRHY151,SNOMED,2024-06-01
+aspirina tamponata,medication,DT4H-MedP150,SNOMED,2024-06-01
+Carvedilolo fosfato,medication,DT4H-MedBB113,SNOMED,2024-06-01
+Prasugrel,medication,DT4H-MedP129,SNOMED,2024-06-01
+Apixaban,medication,DT4H-MedCO136,SNOMED,2024-06-01
+Nadroparina calcio,medication,DT4H-MedCO135,SNOMED,2024-06-01
+Ticagrelor,medication,DT4H-MedP128,SNOMED,2024-06-01
+Dabigatran,medication,DT4H-MedCO133,SNOMED,2024-06-01
+triflusale,medication,DT4H-MedP148,SNOMED,2024-06-01
+Nadroparina,medication,DT4H-MedCO132,SNOMED,2024-06-01
+Dabigatran etexilato,medication,DT4H-MedCO131,SNOMED,2024-06-01
+Rosuvastatina,medication,DT4H-MedS115,SNOMED,2024-06-01
+SOSTANZA CON MECCANISMO D'AZIONE INIBITORE DEL COTRASPORTATORE DI SODIO E GLUCOSIO SOTTOTIPO 2,medication,DT4H-MedSG1,SNOMED,2024-06-01
+Dapagliflozin,medication,DT4H-MedSG121,SNOMED,2024-06-01
+Dapagliflozin propandiolo,medication,DT4H-MedSG120,SNOMED,2024-06-01
+Canagliflozin,medication,DT4H-MedSG119,SNOMED,2024-06-01
+Fenitoina libera,medication,DT4H-MedRHY116,SNOMED,2024-06-01
+Edoxaban,medication,DT4H-MedCO128,SNOMED,2024-06-01
+Idrocarbonato di lidocaina,medication,DT4H-MedRHY115,SNOMED,2024-06-01
+Canagliflozin emiidrato,medication,DT4H-MedSG117,SNOMED,2024-06-01
+Argatroban monoidrato,medication,DT4H-MedCO127,SNOMED,2024-06-01
+Tertatololo cloridrato,medication,DT4H-MedBB111,SNOMED,2024-06-01
+Nebivololo cloridrato,medication,DT4H-MedBB154,SNOMED,2024-06-01
+Clopidogrel besilato,medication,DT4H-MedP125,SNOMED,2024-06-01
+aspirina DL-lisina,medication,DT4H-MedP144,SNOMED,2024-06-01
+Prasugrel cloridrato,medication,DT4H-MedP124,SNOMED,2024-06-01
+Betrixaban,medication,DT4H-MedCO126,SNOMED,2024-06-01
+SOSTANZA CON MECCANISMO D'AZIONE DI INIBITORE DELL'AGGREGAZIONE PIASTRINICA,medication,DT4H-MedP1,SNOMED,2024-06-01
+Sostanza con meccanismo d'azione bloccante dei canali del sodio,medication,DT4H-MedRHY11,SNOMED,2024-06-01
+Eparina sodica suina,medication,DT4H-MedCO125,SNOMED,2024-06-01
+vericiguat,medication,DT4H-MedV150,SNOMED,2024-06-01
+Edoxaban tosilato,medication,DT4H-MedCO124,SNOMED,2024-06-01
+Remogliflozin etabonato,medication,DT4H-MedSG113,SNOMED,2024-06-01
+Cangrelor tetrasodium,medication,DT4H-MedP122,SNOMED,2024-06-01
+Rosuvastatina zinco,medication,DT4H-MedS112,SNOMED,2024-06-01
+Prasugrel idrobromuro,medication,DT4H-MedP121,SNOMED,2024-06-01
+(S)-metoprololo succinato,medication,DT4H-MedBB152,SNOMED,2024-06-01
+(S)-metoprololo tartrato,medication,DT4H-MedBB151,SNOMED,2024-06-01
+Eparina litio,medication,DT4H-MedCO123,SNOMED,2024-06-01
+Eparina ammonio,medication,DT4H-MedCO122,SNOMED,2024-06-01
+Argatroban anidro,medication,DT4H-MedCO121,SNOMED,2024-06-01
+Atorvastatina calcio anidra,medication,DT4H-MedS111,SNOMED,2024-06-01
+Dapagliflozin propandiolo anidro,medication,DT4H-MedSG111,SNOMED,2024-06-01
+Lidocaina cloridrato anidro,medication,DT4H-MedRHY112,SNOMED,2024-06-01
+Tirofiban cloridrato anidro,medication,DT4H-MedP112,SNOMED,2024-06-01
+Tirofiban cloridrato,medication,DT4H-MedP111,SNOMED,2024-06-01
+Fluindione,medication,DT4H-MedCO211,SNOMED,2024-06-01
+Acetildigitossina,medication,DT4H-MedDG119,SNOMED,2024-06-01
+Deslanoside,medication,DT4H-MedDG118,SNOMED,2024-06-01
+aspirina di alluminio,medication,DT4H-MedP164,SNOMED,2024-06-01
+Clorofacinone,medication,DT4H-MedCO234,SNOMED,2024-06-01
+Disopiramide fosfato,medication,DT4H-MedRHY137,SNOMED,2024-06-01
+Labetalolo cloridrato,medication,DT4H-MedBB137,SNOMED,2024-06-01
+Biscoumacetato di etile,medication,DT4H-MedCO230,SNOMED,2024-06-01
+Metoprololo tartrato,medication,DT4H-MedBB168,SNOMED,2024-06-01
+eptaminolo,medication,DT4H-MedV138,SNOMED,2024-06-01
+Lovastatina,medication,DT4H-MedS127,SNOMED,2024-06-01
+Pravastatina sodica,medication,DT4H-MedS126,SNOMED,2024-06-01
+milrinone lattato,medication,DT4H-MedP162,SNOMED,2024-06-01
+epoprostenolo sodico,medication,DT4H-MedP161,SNOMED,2024-06-01
+Argatroban,medication,DT4H-MedCO165,SNOMED,2024-06-01
+Bivalirudina,medication,DT4H-MedCO164,SNOMED,2024-06-01
+Penbutololo,medication,DT4H-MedBB131,SNOMED,2024-06-01
+Pentosan polisolfato,medication,DT4H-MedCO160,SNOMED,2024-06-01
+Anticoagulante ad azione diretta,medication,DT4H-MedCO12,SNOMED,2024-06-01
+Metoprololo,medication,DT4H-MedBB166,SNOMED,2024-06-01
+Disopiramide,medication,DT4H-MedRHY130,SNOMED,2024-06-01
+Esmolol,medication,DT4H-MedBB165,SNOMED,2024-06-01
+Mexiletina,medication,DT4H-MedRHY129,SNOMED,2024-06-01
+Sotalolo,medication,DT4H-MedBB126,SNOMED,2024-06-01
+STATINE,medication,DT4H-MedS1,SNOMED,2024-06-01
+BETABLOCCATORI,medication,DT4H-MedBB1,SNOMED,2024-06-01
+Eparina a basso peso molecolare,medication,DT4H-MedCO157,SNOMED,2024-06-01
+milrinone,medication,DT4H-MedP157,SNOMED,2024-06-01
+Cerivastatina,medication,DT4H-MedS123,SNOMED,2024-06-01
+Atorvastatina,medication,DT4H-MedS122,SNOMED,2024-06-01
+Metipranololo,medication,DT4H-MedBB125,SNOMED,2024-06-01
+Fondaparinux sodico,medication,DT4H-MedCO155,SNOMED,2024-06-01
+Topiramato,medication,DT4H-MedRHY127,SNOMED,2024-06-01
+Penbutololo solfato,medication,DT4H-MedBB124,SNOMED,2024-06-01
+Carteolol,medication,DT4H-MedBB123,SNOMED,2024-06-01
+Ticlopidina,medication,DT4H-MedP133,SNOMED,2024-06-01
+Abciximab,medication,DT4H-MedP116,SNOMED,2024-06-01
+dipiridamolo,medication,DT4H-MedP155,SNOMED,2024-06-01
+Fenitoina sodica,medication,DT4H-MedRHY123,SNOMED,2024-06-01
+Practolol,medication,DT4H-MedBB118,SNOMED,2024-06-01
+Acenocumarolo,medication,DT4H-MedCO217,SNOMED,2024-06-01
+aspirina,medication,DT4H-MedP154,SNOMED,2024-06-01
+Digossina,medication,DT4H-MedDG113,SNOMED,2024-06-01
+Lidocaina,medication,DT4H-MedRHY122,SNOMED,2024-06-01
+Nadolol,medication,DT4H-MedBB117,SNOMED,2024-06-01
+Atenololo,medication,DT4H-MedBB161,SNOMED,2024-06-01
+Digitale,medication,DT4H-MedDG112,SNOMED,2024-06-01
+Fluvastatina,medication,DT4H-MedS119,SNOMED,2024-06-01
+iloprost,medication,DT4H-MedP153,SNOMED,2024-06-01
+Reviparina sodica,medication,DT4H-MedCO151,SNOMED,2024-06-01
+Certoparina sodica,medication,DT4H-MedCO150,SNOMED,2024-06-01
+Tinzaparina sodica,medication,DT4H-MedCO149,SNOMED,2024-06-01
+Bemiparina sodica,medication,DT4H-MedCO144,SNOMED,2024-06-01
+Clopidogrel bisolfato,medication,DT4H-MedP130,SNOMED,2024-06-01
+Hirudin,medication,DT4H-MedCO139,SNOMED,2024-06-01
+Sostanza con meccanismo d'azione bloccante dei canali del potassio,medication,DT4H-MedRHY15,SNOMED,2024-06-01
+Ximelagatran,medication,DT4H-MedCO138,SNOMED,2024-06-01
+Anticoagulante ad azione indiretta,medication,DT4H-MedCO21,SNOMED,2024-06-01
+Coumafuryl,medication,DT4H-MedCO213,SNOMED,2024-06-01
+IVABRADINA,medication,DT4H-MedIV1,SNOMED,2024-06-01
+Rivaroxaban,medication,DT4H-MedCO137,SNOMED,2024-06-01
+treprostinil,medication,DT4H-MedP149,SNOMED,2024-06-01
+Pitavastatina,medication,DT4H-MedS116,SNOMED,2024-06-01
+Sulodexide,medication,DT4H-MedCO134,SNOMED,2024-06-01
+Dabigatran etexilato mesilato,medication,DT4H-MedCO130,SNOMED,2024-06-01
+Pitavastatina calcio,medication,DT4H-MedS114,SNOMED,2024-06-01
+Empagliflozin,medication,DT4H-MedSG118,SNOMED,2024-06-01
+Fondaparinux,medication,DT4H-MedCO129,SNOMED,2024-06-01
+vorapaxar,medication,DT4H-MedP147,SNOMED,2024-06-01
+esobendina,medication,DT4H-MedV136,SNOMED,2024-06-01
+Cangrelor,medication,DT4H-MedP127,SNOMED,2024-06-01
+Tertatolo,medication,DT4H-MedBB112,SNOMED,2024-06-01
+indobufale,medication,DT4H-MedP146,SNOMED,2024-06-01
+selexipag,medication,DT4H-MedP145,SNOMED,2024-06-01
+Atorvastatina calcio triidrato,medication,DT4H-MedS113,SNOMED,2024-06-01
+Clopidogrel cloridrato,medication,DT4H-MedP126,SNOMED,2024-06-01
+Ertugliflozin,medication,DT4H-MedSG116,SNOMED,2024-06-01
+Dapagliflozin propandiolo monoidrato,medication,DT4H-MedSG115,SNOMED,2024-06-01
+Proteina C umana,medication,DT4H-MedCO212,SNOMED,2024-06-01
+caplacizumab,medication,DT4H-MedP143,SNOMED,2024-06-01
+Prasugrel besilato,medication,DT4H-MedP123,SNOMED,2024-06-01
+Ertugliflozin pidolato,medication,DT4H-MedSG114,SNOMED,2024-06-01
+Sostanza con meccanismo d'azione antagonista del recettore piastrinico accoppiato alla proteina G P2Y12,medication,DT4H-MedP12,SNOMED,2024-06-01
+sostanza con meccanismo d'azione antagonista dei recettori della glicoproteina-IIb/IIIa,medication,DT4H-MedP11,SNOMED,2024-06-01
+Lidocaina cloridrato monoidrato,medication,DT4H-MedRHY114,SNOMED,2024-06-01
+(S)-metoprololo,medication,DT4H-MedBB153,SNOMED,2024-06-01
+Canagliflozin anidro,medication,DT4H-MedSG112,SNOMED,2024-06-01
+Fenitoina calcio,medication,DT4H-MedRHY111,SNOMED,2024-06-01
