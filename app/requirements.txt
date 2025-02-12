@@ -1,5 +1,5 @@
 Flask==3.0.3
 requests==2.31.0
 gunicorn
-spacy
+spacy==3.8.4
 flasgger

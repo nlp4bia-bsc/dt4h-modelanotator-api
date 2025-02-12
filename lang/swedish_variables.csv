@@ -1,0 +1,752 @@
+DT4HDem-4,manligt kön
+DT4HDem-4,manligt kön
+DT4HDem-9,BMI
+DT4HDem-9,BMI
+DT4HDem-11,ursprungsplats
+DT4HDem-14,inskrivningsdatum
+DT4HSign-3,dyspné
+DT4HSign-4,ortopné
+DT4HSign-7,fatigue
+DT4HSign-10,aptitlöshet
+DT4HSign-11,sänkt stämningsläge
+DT4HSign-12,hjärtklappning
+DT4HSign-14,svimning
+DT4HSign-18,viktuppgång
+DT4HSign-18,viktuppgång
+DT4HSign-19,viktnedgång
+DT4HSign-19,viktnedgång
+DT4HSign-22,krepitationer vid andning
+DT4HEKG-2,akut hjärtinfarkt Med ST-höjning
+DT4HEKG-3,akut hjärtinfarkt utan ST-höjning
+DT4H-US7,volym på vänster kammare i slutsystole
+DT4H-CV1,angina pectoris
+DT4H-CV1,angina pectoris
+DT4H-CV5,hypertoni
+DT4H-CV9,stroke
+DT4H-CV10,transitorisk ischemisk attack
+DT4H-CV10,transitorisk ischemisk attack
+DT4H-CV10,transitorisk ischemisk attack
+DT4H-CV10,transitorisk ischemisk attack
+DT4H-Dis1,AIDS (acquired immune deficiency syndroMed)
+DT4H-Dis2,infektion orsakad av humant immunbristvirus (HIV)
+DT4H-Dis3,kroniskt obstruktiv lungsjukdom
+DT4H-Dis3,kroniskt obstruktiv lungsjukdom
+DT4H-Dis4,diabetes Medllitus
+DT4H-Dis8,hypertyreos
+DT4H-Dis10,malign tumörsjukdom
+DT4H-Dis10,malign tumörsjukdom
+DT4H-Dis12,reumatism
+DT4H-SM3,dagligrökare
+DT4H-CV12,koronar bypassoperation
+DT4H-CV12,koronar bypassoperation
+DT4HDem-4,man som biologiskt kön
+DT4HDem-4,man
+DT4HDem-9,kroppsmasseindex
+DT4HDem-9,BMI (body mass index)
+DT4HDem-11,ursprungsplats
+DT4HDem-14,datum för inskrivning
+DT4HSign-3,andnöd
+DT4HSign-4,andnöd i liggande ställning
+DT4HSign-7,trötthet
+DT4HSign-10,aptitförlust
+DT4HSign-11,nedstämdhet
+DT4HSign-12,palpitationer
+DT4HSign-14,synkope
+DT4HSign-18,gått upp i vikt
+DT4HSign-18,viktökning
+DT4HSign-19,viktförlust
+DT4HSign-19,fynd som rör viktförlust
+DT4HSign-22,rassel
+DT4HEKG-2,ST-höjningsinfarkt (STEMI)
+DT4HEKG-3,icke ST-höjningsinfarkt (NSTEMI)
+DT4H-US7,storlek på vänster kammarkavitet i slutsystole
+DT4H-CV1,angina
+DT4H-CV1,kärlkramp
+DT4H-CV5,högt blodtryck
+DT4H-CV9,cerebrovaskulär händelse
+DT4H-CV10,övergående ischemisk attack
+DT4H-CV10,TIA (transitorisk ischemisk attack)
+DT4H-CV10,övergående cerebral ischemi
+DT4H-CV10,TIA
+DT4H-Dis1,AIDS
+DT4H-Dis2,HIV-infektion
+DT4H-Dis3,KOL (kroniskt obstruktiv lungsjukdom)
+DT4H-Dis3,KOL
+DT4H-Dis4,diabetes
+DT4H-Dis8,hypertyreoidism
+DT4H-Dis10,malign neoplastisk sjukdom
+DT4H-Dis10,cancer
+DT4H-Dis12,reumatism
+DT4H-SM3,röker tobak dagligen
+DT4H-CV12,CABG
+DT4H-CV12,CABG (coronary artery bypass graft)
+DT4H-CV11,Valvulär hjärtsjukdom
+DT4H-CV11,Hjärtklaffssjukdom
+DT4H-CV11,Valvulär hjärtsjukdom
+DT4H-CV11,Hjärtklaffssjukdom
+DT4HSign-24,Snabb hjärtrytm
+DT4HSign-24,Ökad hjärtfrekvens
+DT4H-SM2,Tidigare rökare
+DT4H-SM2,Före detta rökare
+DT4H-SM2,Sluta röka
+DT4H-Lab14,alfa-lipoprotein
+DT4H-Lab14,HDL
+DT4H-Dis3,Kronisk obstruktiv lungsjukdom
+DT4H-Dis3,Kronisk obstruktiv lungsjukdom
+DT4H-Dis3,KALL
+DT4H-Dis3,KOL
+DT4H-Dis3,"Kronisk obstruktiv lungsjukdom, NEC"
+DT4H-Lab15,beta Lipoprotein
+DT4H-Lab15,LDL
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4HSign-15,Förhöjt venöst tryck i jugularis
+DT4H-Lab20,Mätning av albumin
+DT4HDem-8,Kroppsvikt
+DT4HSign-2,Smärta i bröstet
+DT4H-Lab2,Ferritin
+DT4H-Dis8,Hypertyreos
+DT4H-Dis6,Svår depression
+DT4H-Dis6,Medlankoli
+DT4H-Dis6,Svår depressiv sjukdom
+DT4H-Dis6,Svår depression
+DT4H-Dis6,Medlankoli
+DT4H-Dis6,Svår depressiv sjukdom
+DT4H-CV5,Hypertensiv sjukdom
+DT4H-CV5,Hypertensiv sjukdom
+DT4H-CV5,Hypertoni
+DT4H-CV5,Hyperpiesis
+DT4H-CV5,Högt blodtryck
+DT4H-CV5,Hypertensiv kärlsjukdom
+DT4H-CV5,Hypertensiv vaskulär degeneration
+DT4H-CV5,Hyperpiesia
+DT4H-CV5,Hypertoni
+DT4H-Lab1,Hb
+DT4H-Lab1,Hemoglobin
+DT4H-Lab17,Natrium
+DT4HSign-22,Crepitant rales
+DT4H-CV2,FörmaksflimMedr
+DT4HSign-23,Pleurautgjutning
+DT4H-Lab18,Glutamyltranspeptidas
+DT4H-Lab18,gamma GTP
+DT4HSign-25,Allorytmisk puls
+DT4HSign-25,Oregelbunden puls
+DT4H-Lab7,CRP
+DT4H-Dis1,AIDS
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4HSign-9,Nattlig hosta
+DT4HSign-4,Ortopné
+DT4HSign-16,Hepatojugulärt återflöde
+DT4H-SM1,Rökare
+DT4HSign-10,Anorexia
+DT4H-Lab22,GloMedrulär filtrationshastighet
+DT4HSign-12,Hjärtklappning
+DT4HSign-28,HepatoMedgali
+DT4HSign-30,Minskad urinvolym
+DT4HSign-30,Oligurien
+DT4H-CV4,Hjärtsvikt
+DT4H-CV4,Svagt hjärta
+DT4H-CV4,Hjärtsvikt
+DT4H-CV4,Hjärtsvikt
+DT4H-CV4,Svagt hjärta
+DT4H-CV4,Hjärtsvikt
+DT4HSign-7,Utmattning
+DT4HSign-7,Trötthet
+DT4H-Lab13,Kolesterol
+DT4H-Lab12,Neutralt fett
+DT4H-Lab12,Triglycerid
+DT4H-CV3,Kardiomyopati
+DT4H-CV3,Myokardiopati
+DT4H-CV3,Myokardiopati
+DT4H-Dis2,HIV-infektion
+DT4HSign-20,Blåsljud i hjärtat
+DT4HSign-20,Blåsljud i hjärtat
+DT4HSign-20,MumMedl
+DT4HSign-20,MumMedl
+DT4HSign-19,Minskad kroppsvikt
+DT4HSign-19,Viktminskning
+DT4H-Lab10,Tropomyosin-bindande troponin-subenhet
+DT4H-Lab8,Inhibitorisk troponin-subenhet
+DT4H-Lab23,Mätning av ureakväve i blodet
+DT4H-Lab23,BUN-mätning
+DT4HSign-5,Paroxysmal nattlig dyspné
+DT4H-Dis11,Obstruktivt sömnapnésyndrom
+DT4H-Lab3,Index för transferrinmättnad
+DT4HDem-6,Födelsedatum
+DT4H-CV1,Angina pectoris
+DT4H-CV1,Kärlkramp i hjärtat
+DT4H-CV1,Stenocardia
+DT4H-CV1,Anginalt syndrom
+DT4H-CV1,AP - Angina pectoris
+DT4H-CV1,Ischemisk hjärtsjukdom - angina pectoris
+DT4H-CV1,Ischemisk hjärtsjukdom - angina pectoris
+DT4H-CV9,CVA - Cerebrovaskulär olycka
+DT4H-CV9,Stroke
+DT4H-CV9,Cerebrovaskulär olycka
+DT4H-CV12,CABG - bypass-transplantation av kranskärl
+DT4H-CV12,CBG - koronar bypass-transplantation
+DT4H-CV12,Bypass-transplantation av kranskärl
+DT4H-CV12,Kranskärlsoperationer Med bypass-transplantation
+DT4H-CV12,CAG - Kranskärlsgraft
+DT4H-Dis9,Hepatopati
+DT4H-Dis9,Leversjukdom
+DT4H-Dis9,Sjukdom i levern
+DT4H-Dis9,LD - leversjukdom
+DT4HDem-3,Kvinna
+DT4HDem-4,Man
+DT4H-US1,Ejektionsfraktion i vänster kammare
+DT4H-US7,Vänster kammares hålrumsstorlek end-systolisk
+DT4HEKG-1,Hjärtats rytm
+DT4HEKG-5,QRS-axel
+DT4HEKG-4,QRS-komplexets varaktighet
+DT4HSign-18,Viktökning
+DT4H-Dis7,Njurdialys
+DT4H-Dis7,Dialys Med konstgjord njure
+DT4H-CV10,TIA
+DT4H-CV10,Temporär cerebral vaskulär dysfunktion
+DT4H-CV10,Övergående ischemisk attack
+DT4H-CV10,TIA - Övergående ischemisk attack
+DT4H-CV10,Intermittent cerebral ischemi
+DT4H-CV10,Övergående ischemisk attack
+DT4H-CV10,Övergående cerebral ischemi
+DT4H-SM6,Har aldrig rökt
+DT4H-SM8,Tobaksrökning okänd
+DT4HSign-3,Dyspné
+DT4HSign-3,Andlös
+DT4HSign-3,Andfåddhet
+DT4HSign-3,SOB - andfåddhet
+DT4HSign-3,Andfåddhet
+DT4HSign-8,Svullnad i fotleden
+DT4HSign-8,Svullen fotled
+DT4HSign-6,Nedsatt tolerans för ansträngning
+DT4H-Lab21,Albuminhalt i urin
+DT4H-Lab24,Förhållandet albumin/kreatinin i urinen
+DT4H-Lab19,Kreatinhalt i urin
+DT4H-Lab19,Kreatinmätning i urin
+DT4HSign-14,Synkopeattack
+DT4HSign-21,Perifert ödem
+DT4HSign-26,Snabb andning
+DT4HSign-26,Snabb andning
+DT4HSign-26,Takypné
+DT4HSign-17,Tredje hjärtljudet
+DT4HSign-17,S3 - Tredje hjärtljudet
+DT4H-US32,Fastställande av hjärtrytm
+DT4H-Proc2,Kardiovaskulärt implantat
+DT4H-Proc3,Vaskulärt implantat
+DT4HDem-11,Plats för ursprung
+DT4HSign-27,Cheyne-stokes andning
+DT4HSign-27,CSR
+DT4H-Dis3,Kronisk luftvägsobstruktion
+DT4H-Dis3,Kronisk irreversibel luftvägsobstruktion
+DT4H-Dis3,Kronisk luftflödesobstruktion
+DT4H-Dis3,CAFL - Kronisk luftflödesbegränsning
+DT4H-Dis3,COAD - Kronisk obstruktiv luftvägssjukdom
+DT4H-Dis3,CAO - Kronisk luftflödesobstruktion
+DT4H-Dis3,Kronisk begränsning av luftflödet
+DT4H-Dis3,CAL - Kronisk luftflödesbegränsning
+DT4H-Dis3,KOL - Kronisk obstruktiv lungsjukdom
+DT4H-Dis3,Kronisk obstruktiv luftvägssjukdom
+DT4H-Dis3,Kronisk luftvägssjukdom
+DT4H-Dis3,COLD - Kronisk obstruktiv lungsjukdom
+DT4HSign-15,Förhöjt jugulärt venöst tryck
+DT4H-Dis10,Elakartad tumör
+DT4H-Dis10,Malign tumör
+DT4H-Dis6,Depression
+DT4H-Dis6,Depressiv episod
+DT4H-Dis6,Depressiv sjukdom
+DT4H-Dis6,DepriMedrad
+DT4H-CV11,Störning i hjärtklaff
+DT4HEKG-7,Hjärtfrekvens
+DT4H-Lab1,Hb - Hemoglobin
+DT4H-Lab1,HGB - Hemoglobin
+DT4H-Lab1,Hemoglobin
+DT4H-Lab1,Hb - Hemoglobin
+DT4H-Lab1,HGB - Hemoglobin
+DT4H-CV5,Förhöjt blodtryck
+DT4H-CV5,BP - Högt blodtryck
+DT4H-CV5,Systemisk arteriell hypertension
+DT4H-CV5,Förhöjt blodtryck
+DT4H-CV5,HBP - Högt blodtryck
+DT4H-CV5,HT - Hypertoni
+DT4H-CV5,Sjukdom Med högt blodtryck
+DT4H-CV5,BP+ - Hypertoni (högt blodtryck)
+DT4HSign-11,Nedstämdhet
+DT4HSign-22,Rales
+DT4HSign-22,Krepitationer i andningsvägarna
+DT4HSign-25,Oregelbunden puls
+DT4H-Dis1,Immunbrist på grund av infektion Med humant immunbristvirus
+DT4H-Dis1,AIDS - Förvärvat immunbristsyndrom
+DT4H-Dis4,DM - Diabetes Medllitus
+DT4H-SM1,Nuvarande rökare
+DT4HSign-10,Anorektiker
+DT4HSign-10,Ingen aptit
+DT4HSign-10,Utan mat
+DT4HSign-10,Aptitlöshet
+DT4HSign-28,Stor lever
+DT4HSign-7,Trötthet
+DT4HSign-19,Viktminskningsresultat
+DT4HSign-5,PND - Paroxysmal nattlig dyspné
+DT4H-Dis11,OSA - Obstruktiv sömnapné
+DT4HSign-5,PND - Paroxysmal nattlig dyspné
+DT4H-Dis11,OSA - Obstruktiv sömnapné
+DT4HDem-6,Patientens födelsedatum
+DT4HDem-6,DOB - födelsedatum
+DT4H-Lab15,Beta-lipoprotein
+DT4H-Lab15,LDL - Lipoprotein Med låg densitet
+DT4H-US1,LVEF - vänster ventrikels ejektionsfraktion
+DT4H-US7,LV-kavitetens storlek end-systolisk
+DT4H-US13,RVEF - högerkammarens ejektionsfraktion
+DT4H-US32,Observation av hjärtrytm
+DT4H-US2,BSA - kroppsyta
+DT4H-Out8,Inläggning på sjukhus
+DT4HSign-24,Snabb hjärtfrekvens
+DT4H-Dis10,Cancer
+DT4H-Dis10,CA - Cancer
+DT4H-Dis10,Malign neoplasm
+DT4H-Lab17,Na - Natrium
+DT4H-CV2,AF - förmaksflimMedr
+DT4H-Lab18,Gamma-glutamyltranspeptidas
+DT4H-Lab18,Gamma-glutamyltransferas
+DT4H-Lab18,GGT - Gamma-glutamyltransferas
+DT4H-Lab7,C-reaktivt protein
+DT4H-Lab7,CRP - C-reaktivt protein
+DT4HSign-4,Andfåddhet i liggande ställning
+DT4HSign-4,Måste sitta upp för att andas
+DT4HSign-30,Låg urinproduktion
+DT4HSign-30,Oligouria
+DT4HSign-30,Avger för lite urin
+DT4H-CV4,HF - Hjärtsvikt
+DT4H-Lab12,TG - Triglycerid
+DT4H-Dis2,HIV - infektion Med humant immunbristvirus
+DT4H-Lab16,K - kalium
+DT4HSign-20,Upptäckt av blåsljud i hjärtat
+DT4HSign-20,Observation av blåsljud i hjärtat
+DT4H-Lab14,HDL - Lipoprotein Med hög densitet
+DT4H-Lab14,Alfa-lipoprotein
+DT4H-Lab19,"Kreatinmätning, urin"
+DT4HSign-26,Takypnoeisk
+DT4HSign-26,Takypnéisk
+DT4HSign-29,Peritoneal vattusot
+DT4HSign-29,Buksvullnad
+DT4HSign-29,Hydrops abdominis
+DT4HSign-29,Hydroperitoni
+DT4HSign-29,Hydroperitoneum
+DT4H-Dis12,Reumatism
+DT4H-US41,Förändring av fraktionerad area i vänster kammare
+DT4HDem-14,Datum för inskrivning
+DT4HEKG-2,Akut hjärtinfarkt Med ST-höjning
+DT4H-CV7,MI - Myokardinfarkt
+DT4H-CV7,Myokardinfarkt
+DT4H-Dis12,Lokomotorisk smärtstörning
+DT4H-Dis12,Muskuloskeletal smärtstörning
+DT4HEKG-3,NSTEMI - MI utan förhöjt ST-segMednt
+DT4HSign-13,Yrsel
+DT4H-Lab5,Natriuretisk peptid i hjärnan
+DT4HSign-14,Svimning
+DT4H-Lab5,Natriuretisk peptid typ B
+DT4HDem-9,Vikt: kroppsmassa
+DT4HDem-9,BMI - Body mass index
+DT4H-CV5,HTN - Hypertoni (högt blodtryck)
+DT4H-US7,Vänster ventrikels systoliska slutvolym
+DT4H-CV6,Ischemisk hjärtsjukdom
+DT4H-Proc1,Perkutan kranskärlsintervention
+DT4H-Lab3,Mätning av transferrinmättnad
+DT4H-Lab3,Mätning av förhållandet järn/total järnbindningskapacitet
+DT4H-Lab3,Transferrin-järnmättnad
+DT4H-Lab3,Förhållandet Medllan järn och TIBC i serum
+DT4H-Lab3,Procentuell järnmättnad
+DT4H-Lab3,Transferrinmättnad i serum
+DT4HEKG-7,Hjärtfrekvens
+DT4H-Lab4,N-BNP - N-terminal pro brain natriuretic peptide
+DT4H-Lab4,NT-proBNP - N-terminal natriuretisk peptid av pro-B-typ
+DT4H-CV6,IHD - Ischemisk hjärtsjukdom
+DT4H-CV6,IHD - Ischemisk hjärtsjukdom
+DT4H-Out9,Döden
+DT4H-Proc4,Hjärttransplantat - material
+DT4HDem-9,Quetelet-index
+DT4H-Dis1,Förvärvat immunbristsyndrom (AIDS)
+DT4HSign-1,NYHA - Klassificering enligt New York Heart Association
+DT4H-CV5,"Hypertensiv sjukdom, systemisk arteriell"
+DT4H-CV10,Intermittent cerebral ischemi
+DT4HEKG-2,STEMI - hjärtinfarkt Med ST-höjning
+DT4HSign-14,Svag
+DT4H-SM3,Röker tobak dagligen
+DT4H-Dis11,Obstruktiv sömnapné
+DT4H-Dis6,Förstämningssyndrom av depriMedrad typ
+DT4HSign-27,CSR - Cheyne-Stokes andning
+DT4H-Dis11,Obstruktiv sömnapné
+DT4H-CV4,Hjärtinsufficiens
+DT4H-Dis5,Organisk deMedns
+DT4H-Proc1,PCI - Perkutan kranskärlsintervention
+DT4HSign-27,Cheyne Stokes andning
+DT4H-Dis13,Kronisk njursjukdom
+DT4H-Dis13,CKD - kronisk njursjukdom
+DT4H-Dis13,Kronisk njurfunktionsnedsättning
+DT4H-Dis13,Kronisk njursjukdom
+DT4H-Lab6,Mätning av C-reaktivt protein Med hjälp av högkänslig teknik
+DT4H-SM4,Sporadisk tobaksrökare
+DT4H-US33,en våg
+DT4H-Lab25,Glykerat hemoglobin-A1c
+DT4H-Lab25,HbA1c - Glykerat hemoglobin-A1c
+DT4H-Lab25,HbA1c - Glykerat hemoglobin-A1c
+DT4HSign-14,Blackout
+DT4H-CV7,MI - myokardiell infarkt
+DT4H-Lab14,Alfa-lipoprotein
+DT4H-Lab15,Beta-lipoprotein
+DT4H-Lab18,Gamma gTP
+DT4H-Lab18,GGT - gamma-glutamyltransferas
+DT4H-Lab14,HDL - lipoprotein Med hög densitet
+DT4H-Lab5,Natriuretisk peptid typ B
+DT4H-CV8,Perifer arteriell kärlsjukdom
+DT4H-CV8,Perifer arteriell sjukdom
+DT4H-CV8,Perifer artärsjukdom
+DT4HSign-13,Dizzy
+DT4HDem-7,Kroppslängd
+DT4H-SM1,Rökning
+DT4H-Lab22,GFR - gloMedrulär filtrationshastighet
+DT4H-CV10,TIA - övergående ischemisk attack
+DT4H-CV10,TIA - övergående ischemisk attack
+DT4H-Proc4,Transplantation hjärta
+DT4HSign-18,Viktökning
+DT4H-CV11,Valvulär hjärtsjukdom
+DT4H-CV11,Hjärtklaffssjukdom
+DT4H-CV11,Valvulär hjärtsjukdom
+DT4H-CV11,Hjärtklaffssjukdom
+DT4HSign-24,Snabb hjärtrytm
+DT4HSign-24,Ökad hjärtfrekvens
+DT4H-SM2,Tidigare rökare
+DT4H-SM2,Före detta rökare
+DT4H-SM2,Sluta röka
+DT4H-Lab14,alfa-lipoprotein
+DT4H-Lab14,HDL
+DT4H-Dis3,Kronisk obstruktiv lungsjukdom
+DT4H-Dis3,Kronisk obstruktiv lungsjukdom
+DT4H-Dis3,KALL
+DT4H-Dis3,KOL
+DT4H-Dis3,"Kronisk obstruktiv lungsjukdom, NEC"
+DT4H-Lab15,beta Lipoprotein
+DT4H-Lab15,LDL
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4H-CV7,Hjärtinfarkt
+DT4HSign-15,Förhöjt venöst tryck i jugularis
+DT4H-Lab20,Mätning av albumin
+DT4HDem-8,Kroppsvikt
+DT4HSign-2,Smärta i bröstet
+DT4H-Lab2,Ferritin
+DT4H-Dis8,Hypertyreos
+DT4H-Dis6,Svår depression
+DT4H-Dis6,Medlankoli
+DT4H-Dis6,Svår depressiv sjukdom
+DT4H-Dis6,Svår depression
+DT4H-Dis6,Medlankoli
+DT4H-Dis6,Svår depressiv sjukdom
+DT4H-CV5,Hypertensiv sjukdom
+DT4H-CV5,Hypertensiv sjukdom
+DT4H-CV5,Hypertoni
+DT4H-CV5,Hyperpiesis
+DT4H-CV5,Högt blodtryck
+DT4H-CV5,Hypertensiv kärlsjukdom
+DT4H-CV5,Hypertensiv vaskulär degeneration
+DT4H-CV5,Hyperpiesia
+DT4H-CV5,Hypertoni
+DT4H-Lab1,Hb
+DT4H-Lab1,Hemoglobin
+DT4H-Lab17,Natrium
+DT4HSign-22,Crepitant rales
+DT4H-CV2,FörmaksflimMedr
+DT4HSign-23,Pleurautgjutning
+DT4H-Lab18,Glutamyltranspeptidas
+DT4H-Lab18,gamma GTP
+DT4HSign-25,Allorytmisk puls
+DT4HSign-25,Oregelbunden puls
+DT4H-Lab7,CRP
+DT4H-Dis1,AIDS
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4H-Dis1,Förvärvat immunbristsyndrom
+DT4HSign-9,Nattlig hosta
+DT4HSign-4,Ortopné
+DT4HSign-16,Hepatojugulärt återflöde
+DT4H-SM1,Rökare
+DT4HSign-10,Anorexia
+DT4H-Lab22,GloMedrulär filtrationshastighet
+DT4HSign-12,Hjärtklappning
+DT4HSign-28,HepatoMedgali
+DT4HSign-30,Minskad urinvolym
+DT4HSign-30,Oligurien
+DT4H-CV4,Hjärtsvikt
+DT4H-CV4,Svagt hjärta
+DT4H-CV4,Hjärtsvikt
+DT4H-CV4,Hjärtsvikt
+DT4H-CV4,Svagt hjärta
+DT4H-CV4,Hjärtsvikt
+DT4HSign-7,Utmattning
+DT4HSign-7,Trötthet
+DT4H-Lab13,Kolesterol
+DT4H-Lab12,Neutralt fett
+DT4H-Lab12,Triglycerid
+DT4H-CV3,Kardiomyopati
+DT4H-CV3,Myokardiopati
+DT4H-CV3,Myokardiopati
+DT4H-Dis2,HIV-infektion
+DT4HSign-20,Blåsljud i hjärtat
+DT4HSign-20,Blåsljud i hjärtat
+DT4HSign-20,MumMedl
+DT4HSign-20,MumMedl
+DT4HSign-19,Minskad kroppsvikt
+DT4HSign-19,Viktminskning
+DT4H-Lab10,Tropomyosin-bindande troponin-subenhet
+DT4H-Lab8,Inhibitorisk troponin-subenhet
+DT4H-Lab23,Mätning av ureakväve i blodet
+DT4H-Lab23,BUN-mätning
+DT4HSign-5,Paroxysmal nattlig dyspné
+DT4H-Dis11,Obstruktivt sömnapnésyndrom
+DT4H-Lab3,Index för transferrinmättnad
+DT4HDem-6,Födelsedatum
+DT4H-CV1,Angina pectoris
+DT4H-CV1,Kärlkramp i hjärtat
+DT4H-CV1,Stenocardia
+DT4H-CV1,Anginalt syndrom
+DT4H-CV1,AP - Angina pectoris
+DT4H-CV1,Ischemisk hjärtsjukdom - angina pectoris
+DT4H-CV1,Ischemisk hjärtsjukdom - angina pectoris
+DT4H-CV9,CVA - Cerebrovaskulär olycka
+DT4H-CV9,Stroke
+DT4H-CV9,Cerebrovaskulär olycka
+DT4H-CV12,CABG - bypass-transplantation av kranskärl
+DT4H-CV12,CBG - koronar bypass-transplantation
+DT4H-CV12,Bypass-transplantation av kranskärl
+DT4H-CV12,Kranskärlsoperationer Med bypass-transplantation
+DT4H-CV12,CAG - Kranskärlsgraft
+DT4H-Dis9,Hepatopati
+DT4H-Dis9,Leversjukdom
+DT4H-Dis9,Sjukdom i levern
+DT4H-Dis9,LD - leversjukdom
+DT4HDem-3,Kvinna
+DT4HDem-4,Man
+DT4H-US1,Ejektionsfraktion i vänster kammare
+DT4H-US7,Vänster kammares hålrumsstorlek end-systolisk
+DT4HEKG-1,Hjärtats rytm
+DT4HEKG-5,QRS-axel
+DT4HEKG-4,QRS-komplexets varaktighet
+DT4HSign-18,Viktökning
+DT4H-Dis7,Njurdialys
+DT4H-Dis7,Dialys Med konstgjord njure
+DT4H-CV10,TIA
+DT4H-CV10,Temporär cerebral vaskulär dysfunktion
+DT4H-CV10,Övergående ischemisk attack
+DT4H-CV10,TIA - Övergående ischemisk attack
+DT4H-CV10,Intermittent cerebral ischemi
+DT4H-CV10,Övergående ischemisk attack
+DT4H-CV10,Övergående cerebral ischemi
+DT4H-SM6,Har aldrig rökt
+DT4H-SM8,Tobaksrökning okänd
+DT4HSign-3,Dyspné
+DT4HSign-3,Andlös
+DT4HSign-3,Andfåddhet
+DT4HSign-3,SOB - andfåddhet
+DT4HSign-3,Andfåddhet
+DT4HSign-8,Svullnad i fotleden
+DT4HSign-8,Svullen fotled
+DT4HSign-6,Nedsatt tolerans för ansträngning
+DT4H-Lab21,Albuminhalt i urin
+DT4H-Lab24,Förhållandet albumin/kreatinin i urinen
+DT4H-Lab19,Kreatinhalt i urin
+DT4H-Lab19,Kreatinmätning i urin
+DT4HSign-14,Synkopeattack
+DT4HSign-21,Perifert ödem
+DT4HSign-26,Snabb andning
+DT4HSign-26,Snabb andning
+DT4HSign-26,Takypné
+DT4HSign-17,Tredje hjärtljudet
+DT4HSign-17,S3 - Tredje hjärtljudet
+DT4H-US32,Fastställande av hjärtrytm
+DT4H-Proc2,Kardiovaskulärt implantat
+DT4H-Proc3,Vaskulärt implantat
+DT4HDem-11,Plats för ursprung
+DT4HSign-27,Cheyne-stokes andning
+DT4HSign-27,CSR
+DT4H-Dis3,Kronisk luftvägsobstruktion
+DT4H-Dis3,Kronisk irreversibel luftvägsobstruktion
+DT4H-Dis3,Kronisk luftflödesobstruktion
+DT4H-Dis3,CAFL - Kronisk luftflödesbegränsning
+DT4H-Dis3,COAD - Kronisk obstruktiv luftvägssjukdom
+DT4H-Dis3,CAO - Kronisk luftflödesobstruktion
+DT4H-Dis3,Kronisk begränsning av luftflödet
+DT4H-Dis3,CAL - Kronisk luftflödesbegränsning
+DT4H-Dis3,KOL - Kronisk obstruktiv lungsjukdom
+DT4H-Dis3,Kronisk obstruktiv luftvägssjukdom
+DT4H-Dis3,Kronisk luftvägssjukdom
+DT4H-Dis3,COLD - Kronisk obstruktiv lungsjukdom
+DT4HSign-15,Förhöjt jugulärt venöst tryck
+DT4H-Dis10,Elakartad tumör
+DT4H-Dis10,Malign tumör
+DT4H-Dis6,Depression
+DT4H-Dis6,Depressiv episod
+DT4H-Dis6,Depressiv sjukdom
+DT4H-Dis6,DepriMedrad
+DT4H-CV11,Störning i hjärtklaff
+DT4HEKG-7,Hjärtfrekvens
+DT4H-Lab1,Hb - Hemoglobin
+DT4H-Lab1,HGB - Hemoglobin
+DT4H-Lab1,Hemoglobin
+DT4H-Lab1,Hb - Hemoglobin
+DT4H-Lab1,HGB - Hemoglobin
+DT4H-CV5,Förhöjt blodtryck
+DT4H-CV5,BP - Högt blodtryck
+DT4H-CV5,Systemisk arteriell hypertension
+DT4H-CV5,Förhöjt blodtryck
+DT4H-CV5,HBP - Högt blodtryck
+DT4H-CV5,HT - Hypertoni
+DT4H-CV5,Sjukdom Med högt blodtryck
+DT4H-CV5,BP+ - Hypertoni (högt blodtryck)
+DT4HSign-11,Nedstämdhet
+DT4HSign-22,Rales
+DT4HSign-22,Krepitationer i andningsvägarna
+DT4HSign-25,Oregelbunden puls
+DT4H-Dis1,Immunbrist på grund av infektion Med humant immunbristvirus
+DT4H-Dis1,AIDS - Förvärvat immunbristsyndrom
+DT4H-Dis4,DM - Diabetes Medllitus
+DT4H-SM1,Nuvarande rökare
+DT4HSign-10,Anorektiker
+DT4HSign-10,Ingen aptit
+DT4HSign-10,Utan mat
+DT4HSign-10,Aptitlöshet
+DT4HSign-28,Stor lever
+DT4HSign-7,Trötthet
+DT4HSign-19,Viktminskningsresultat
+DT4HSign-5,PND - Paroxysmal nattlig dyspné
+DT4H-Dis11,OSA - Obstruktiv sömnapné
+DT4HSign-5,PND - Paroxysmal nattlig dyspné
+DT4H-Dis11,OSA - Obstruktiv sömnapné
+DT4HDem-6,Patientens födelsedatum
+DT4HDem-6,DOB - födelsedatum
+DT4H-Lab15,Beta-lipoprotein
+DT4H-Lab15,LDL - Lipoprotein Med låg densitet
+DT4H-US1,LVEF - vänster ventrikels ejektionsfraktion
+DT4H-US7,LV-kavitetens storlek end-systolisk
+DT4H-US13,RVEF - högerkammarens ejektionsfraktion
+DT4H-US32,Observation av hjärtrytm
+DT4H-US2,BSA - kroppsyta
+DT4H-Out8,Inläggning på sjukhus
+DT4HSign-24,Snabb hjärtfrekvens
+DT4H-Dis10,Cancer
+DT4H-Dis10,CA - Cancer
+DT4H-Dis10,Malign neoplasm
+DT4H-Lab17,Na - Natrium
+DT4H-CV2,AF - förmaksflimMedr
+DT4H-Lab18,Gamma-glutamyltranspeptidas
+DT4H-Lab18,Gamma-glutamyltransferas
+DT4H-Lab18,GGT - Gamma-glutamyltransferas
+DT4H-Lab7,C-reaktivt protein
+DT4H-Lab7,CRP - C-reaktivt protein
+DT4HSign-4,Andfåddhet i liggande ställning
+DT4HSign-4,Måste sitta upp för att andas
+DT4HSign-30,Låg urinproduktion
+DT4HSign-30,Oligouria
+DT4HSign-30,Avger för lite urin
+DT4H-CV4,HF - Hjärtsvikt
+DT4H-Lab12,TG - Triglycerid
+DT4H-Dis2,HIV - infektion Med humant immunbristvirus
+DT4H-Lab16,K - kalium
+DT4HSign-20,Upptäckt av blåsljud i hjärtat
+DT4HSign-20,Observation av blåsljud i hjärtat
+DT4H-Lab14,HDL - Lipoprotein Med hög densitet
+DT4H-Lab14,Alfa-lipoprotein
+DT4H-Lab19,"Kreatinmätning, urin"
+DT4HSign-26,Takypnoeisk
+DT4HSign-26,Takypnéisk
+DT4HSign-29,Peritoneal vattusot
+DT4HSign-29,Buksvullnad
+DT4HSign-29,Hydrops abdominis
+DT4HSign-29,Hydroperitoni
+DT4HSign-29,Hydroperitoneum
+DT4H-Dis12,Reumatism
+DT4H-US41,Förändring av fraktionerad area i vänster kammare
+DT4HDem-14,Datum för inskrivning
+DT4HEKG-2,Akut hjärtinfarkt Med ST-höjning
+DT4H-CV7,MI - Myokardinfarkt
+DT4H-CV7,Myokardinfarkt
+DT4H-Dis12,Lokomotorisk smärtstörning
+DT4H-Dis12,Muskuloskeletal smärtstörning
+DT4HEKG-3,NSTEMI - MI utan förhöjt ST-segMednt
+DT4HSign-13,Yrsel
+DT4H-Lab5,Natriuretisk peptid i hjärnan
+DT4HSign-14,Svimning
+DT4H-Lab5,Natriuretisk peptid typ B
+DT4HDem-9,Vikt: kroppsmassa
+DT4HDem-9,BMI - Body mass index
+DT4H-CV5,HTN - Hypertoni (högt blodtryck)
+DT4H-US7,Vänster ventrikels systoliska slutvolym
+DT4H-CV6,Ischemisk hjärtsjukdom
+DT4H-Proc1,Perkutan kranskärlsintervention
+DT4H-Lab3,Mätning av transferrinmättnad
+DT4H-Lab3,Mätning av förhållandet järn/total järnbindningskapacitet
+DT4H-Lab3,Transferrin-järnmättnad
+DT4H-Lab3,Förhållandet Medllan järn och TIBC i serum
+DT4H-Lab3,Procentuell järnmättnad
+DT4H-Lab3,Transferrinmättnad i serum
+DT4HEKG-7,Hjärtfrekvens
+DT4H-Lab4,N-BNP - N-terminal pro brain natriuretic peptide
+DT4H-Lab4,NT-proBNP - N-terminal natriuretisk peptid av pro-B-typ
+DT4H-CV6,IHD - Ischemisk hjärtsjukdom
+DT4H-CV6,IHD - Ischemisk hjärtsjukdom
+DT4H-Out9,Döden
+DT4H-Proc4,Hjärttransplantat - material
+DT4HDem-9,Quetelet-index
+DT4H-Dis1,Förvärvat immunbristsyndrom (AIDS)
+DT4HSign-1,NYHA - Klassificering enligt New York Heart Association
+DT4H-CV5,"Hypertensiv sjukdom, systemisk arteriell"
+DT4H-CV10,Intermittent cerebral ischemi
+DT4HEKG-2,STEMI - hjärtinfarkt Med ST-höjning
+DT4HSign-14,Svag
+DT4H-SM3,Röker tobak dagligen
+DT4H-Dis11,Obstruktiv sömnapné
+DT4H-Dis6,Förstämningssyndrom av depriMedrad typ
+DT4HSign-27,CSR - Cheyne-Stokes andning
+DT4H-Dis11,Obstruktiv sömnapné
+DT4H-CV4,Hjärtinsufficiens
+DT4H-Dis5,Organisk deMedns
+DT4H-Proc1,PCI - Perkutan kranskärlsintervention
+DT4HSign-27,Cheyne Stokes andning
+DT4H-Dis13,Kronisk njursjukdom
+DT4H-Dis13,CKD - kronisk njursjukdom
+DT4H-Dis13,Kronisk njurfunktionsnedsättning
+DT4H-Dis13,Kronisk njursjukdom
+DT4H-Lab6,Mätning av C-reaktivt protein Med hjälp av högkänslig teknik
+DT4H-SM4,Sporadisk tobaksrökare
+DT4H-US33,en våg
+DT4H-Lab25,Glykerat hemoglobin-A1c
+DT4H-Lab25,HbA1c - Glykerat hemoglobin-A1c
+DT4H-Lab25,HbA1c - Glykerat hemoglobin-A1c
+DT4HSign-14,Blackout
+DT4H-CV7,MI - myokardiell infarkt
+DT4H-Lab14,Alfa-lipoprotein
+DT4H-Lab15,Beta-lipoprotein
+DT4H-Lab18,Gamma gTP
+DT4H-Lab18,GGT - gamma-glutamyltransferas
+DT4H-Lab14,HDL - lipoprotein Med hög densitet
+DT4H-Lab5,Natriuretisk peptid typ B
+DT4H-CV8,Perifer arteriell kärlsjukdom
+DT4H-CV8,Perifer arteriell sjukdom
+DT4H-CV8,Perifer artärsjukdom
+DT4HSign-13,Dizzy
+DT4HDem-7,Kroppslängd
+DT4H-SM1,Rökning
+DT4H-Lab22,GFR - gloMedrulär filtrationshastighet
+DT4H-CV10,TIA - övergående ischemisk attack
+DT4H-CV10,TIA - övergående ischemisk attack
+DT4H-Proc4,Transplantation hjärta
+DT4HSign-18,Viktökning

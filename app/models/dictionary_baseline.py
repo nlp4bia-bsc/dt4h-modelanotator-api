@@ -1,14 +1,25 @@
 import csv
+import os
 from app.models.model_annotation import ModelAnnotation
 
 class DictionaryLookupModel(ModelAnnotation):
     def __init__(self, csv_path):
-        import csv
         import spacy
         from spacy.tokens import Doc, Span
         from spacy.language import Language
 
-        self.nlp = spacy.load("en_core_web_sm")
+        self.spacy_models = {
+            "sv": "sv_core_news_sm",
+            "en": "en_core_web_sm",
+            "ro": "ro_core_news_sm",
+            "nl": "nl_core_news_sm",
+            "sp": "es_core_news_sm",
+            "it": "it_core_news_sm",
+            "cs": "xx_ent_wiki_sm"
+        }
+
+        self.nlp = \
+            spacy.load(self.spacy_models[os.getenv("LANGUAGE", "EN").lower()])
         self.entities = self.load_entities_from_csv(csv_path)
 
         @Language.component("dictionary_entity_recognizer")
@@ -19,7 +30,10 @@ class DictionaryLookupModel(ModelAnnotation):
                     start = token.i
                     end = token.i + 1
                     entity_info = self.entities[token.lower_]
-                    matches.append(Span(doc, start, end, label=entity_info["label"]))
+                    matches.append(Span(doc,
+                                        start,
+                                        end,
+                                        label=entity_info["label"]))
 
             new_ents = []
             for span in matches:
@@ -50,7 +64,7 @@ class DictionaryLookupModel(ModelAnnotation):
                     }
         return entities
 
-    def predict(self, text, app):
+    def predict(self, text, app, id: str = "", language: str = "en"):
         doc = self.nlp(text)
         annotations = []
 
@@ -83,4 +97,4 @@ class DictionaryLookupModel(ModelAnnotation):
             else:
                 print(f"Entity '{entity_text}' not found in dictionary.")
 
-        return self.serialize(text, annotations)
+        return self.serialize(text, annotations, id=id, language=language)

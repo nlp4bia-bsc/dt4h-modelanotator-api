@@ -4,8 +4,8 @@ services:
     build: .
     user: root
     environment:
-      DICTIONARY_FILE:
-      LANGUAGE: en
+      DICTIONARY_FILE: swedish
+      LANGUAGE: SV
     ports:
       - 8000:8000
     volumes:

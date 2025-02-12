@@ -2,11 +2,19 @@ from flask import Flask, request, jsonify
 from flasgger import Swagger
 from app.models.dictionary_baseline import DictionaryLookupModel
 
+import os
+import logging
+
 app = Flask(__name__)
 swagger = Swagger(app)
 
+
+model_language = str(os.getenv("LANGUAGE", "EN")).lower()
+
+language = os.getenv("DICTIONARY_FILE", "english")
+
 # Initialize the model
-model = DictionaryLookupModel("./english_entities.csv")
+model = DictionaryLookupModel("./" + str(language) + "_entities.csv")
 
 @app.route('/process_text', methods=['POST'])
 def process_text():
@@ -40,10 +48,12 @@ def process_text():
 
     text = data.get('text')
 
+    id = data.get('id')
+
     if not text:
         return jsonify({"error": "'text' is required"}), 400
 
-    result = model.predict(text, app)
+    result = model.predict(text=text, app=app, id=id, language=model_language)
     return jsonify(result)
 
 @app.route('/process_bulk', methods=['POST'])
@@ -87,10 +97,12 @@ def process_bulk():
     for item in data:
         text = item.get('text')
 
+        id = item.get('id')
+
         if not text:
             return jsonify({"error": "Each item must contain 'text'"}), 400
 
-        result = model.predict(text, app)
+        result = model.predict(text, app, id=id, language=model_language)
         results.append(result)
 
     return jsonify(results)
