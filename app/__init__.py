@@ -6,7 +6,7 @@ app = Flask(__name__)
 swagger = Swagger(app)
 
 # Initialize the model
-model = DictionaryLookupModel("./english_entities.csv")
+model = DictionaryLookupModel("./italian_entities.csv")
 
 @app.route('/process_text', methods=['POST'])
 def process_text():

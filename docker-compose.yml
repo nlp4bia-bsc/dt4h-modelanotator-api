@@ -5,7 +5,7 @@ services:
     user: root
     environment:
       DICTIONARY_FILE:
-      LANGUAGE: en
+      LANGUAGE: it
     ports:
       - 8000:8000
     volumes:
@@ -17,4 +17,4 @@ services:
 networks:
   default:
     name: cogstack-net
-    external: true
+

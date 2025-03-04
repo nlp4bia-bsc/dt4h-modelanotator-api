@@ -8,7 +8,7 @@ class DictionaryLookupModel(ModelAnnotation):
         from spacy.tokens import Doc, Span
         from spacy.language import Language
 
-        self.nlp = spacy.load("en_core_web_sm")
+        self.nlp = spacy.load("it_core_news_sm")
         self.entities = self.load_entities_from_csv(csv_path)
 
         @Language.component("dictionary_entity_recognizer")
